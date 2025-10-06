@@ -1,0 +1,501 @@
+wrestler_id,wrestler_name,brand,debut_year,years_active,total_matches,world_title_reigns,secondary_title_reigns,tag_title_reigns,total_title_reigns,current_champion,win_rate,finisher_popularity,social_media_followers_millions,main_evented_ppv,age,weight_class,popularity_tier
+1,Jon Moxley,AEW,2018,7,75,5,2,1,8,0,0.72,3.45,4.02,5,25,Openweight,Main Eventer
+2,Kenny Omega,AEW,2011,14,80,0,1,1,2,0,0.36,1.15,2.94,34,23,Junior Heavyweight,Main Eventer
+3,Chris Jericho,AEW,2005,20,653,2,0,6,8,0,0.7,1.83,0.74,21,36,Heavyweight,Upper Midcard
+4,CM Punk,AEW,2000,25,149,2,2,4,8,0,0.37,2.41,0.61,24,34,Heavyweight,Enhancement
+5,Samoa Joe,AEW,2015,10,899,5,4,6,15,0,0.45,0.53,2.99,18,31,Heavyweight,Main Eventer
+6,MJF,AEW,2005,20,439,2,3,5,10,0,0.43,1.91,3.03,4,25,Openweight,Main Eventer
+7,Darby Allin,AEW,2018,7,596,5,1,1,7,0,0.48,4.64,3.11,14,27,Women's,Main Eventer
+8,Thunder Rosa,AEW,1999,26,891,0,2,3,5,0,0.46,4.73,3.95,20,29,Cruiserweight,Main Eventer
+9,Ricky Starks,AEW,2018,7,455,5,3,1,9,0,0.47,2.89,1.22,37,37,Junior Heavyweight,Upper Midcard
+10,Hikaru Shida,AEW,2016,9,420,1,1,4,6,0,0.73,4.33,0.73,10,34,Junior Heavyweight,Main Eventer
+11,Kazuchika Okada,NJPW,2017,8,444,3,4,3,10,0,0.84,4.33,0.1,7,24,Openweight,Main Eventer
+12,Tetsuya Naito,NJPW,2006,19,398,0,2,3,5,0,0.35,3.67,3.25,32,42,Cruiserweight,Main Eventer
+13,Will Ospreay,NJPW,2014,11,690,2,4,4,10,0,0.54,0.98,4.29,33,25,Heavyweight,Main Eventer
+14,Hiroshi Tanahashi,NJPW,2017,8,550,0,0,2,2,0,0.77,1.68,0.31,36,32,Heavyweight,Main Eventer
+15,Shingo Takagi,NJPW,2000,25,885,0,4,6,10,0,0.68,4.74,0.78,33,37,Openweight,Upper Midcard
+16,Juice Robinson,NJPW,2011,14,602,6,1,5,12,0,0.85,3.32,2.0,33,28,Junior Heavyweight,Main Eventer
+17,Jay White,NJPW,2001,24,280,0,2,0,2,0,0.47,1.26,0.37,40,29,Heavyweight,Midcard
+18,Tama Tonga,NJPW,2005,20,82,6,2,0,8,0,0.49,2.53,2.45,36,24,Openweight,Upper Midcard
+19,YOSHI-HASHI,NJPW,2013,12,853,3,3,1,7,0,0.68,1.9,1.88,3,29,Heavyweight,Upper Midcard
+20,El Desperado,NJPW,1999,26,795,2,0,1,3,0,0.62,0.87,0.87,29,34,Cruiserweight,Upper Midcard
+21,Samoa Joe ROH,ROH,2000,25,877,6,4,0,10,1,0.85,4.21,4.36,15,36,Cruiserweight,Main Eventer
+22,Jay Lethal,ROH,2011,14,542,1,3,0,4,0,0.35,2.07,4.17,29,37,Women's,Main Eventer
+23,Jonathan Gresham,ROH,2011,14,798,6,4,5,15,0,0.43,1.62,4.36,37,44,Openweight,Main Eventer
+24,PCO,ROH,1999,26,108,0,4,3,7,0,0.78,0.96,4.33,5,32,Cruiserweight,Main Eventer
+25,Kyle O'Reilly,ROH,2000,25,119,5,1,3,9,0,0.8,1.38,2.7,39,41,Heavyweight,Main Eventer
+26,Matt Taven,ROH,2011,14,647,4,4,2,10,0,0.45,3.64,1.11,25,43,Cruiserweight,Enhancement
+27,Vinny Marseglia,ROH,2018,7,518,2,0,0,2,0,0.85,4.98,0.38,13,31,Openweight,Main Eventer
+28,Brody King,ROH,2006,19,407,0,1,2,3,0,0.57,2.81,1.4,33,26,Heavyweight,Upper Midcard
+29,EC,ROH,2015,10,729,0,1,2,3,0,0.4,2.86,1.26,38,31,Cruiserweight,Upper Midcard
+30,Dragon Lee ROH,ROH,2008,17,753,5,2,4,11,0,0.8,4.26,0.46,27,28,Women's,Main Eventer
+31,Psycho Clown,AAA,1999,26,391,6,1,5,12,0,0.43,2.32,3.19,35,22,Heavyweight,Main Eventer
+32,Pimpinela Escarlata,AAA,2001,24,757,1,4,0,5,0,0.64,0.91,0.62,19,24,Women's,Upper Midcard
+33,El Hijo del Vikingo,AAA,1999,26,265,5,1,5,11,0,0.74,4.44,1.86,39,33,Cruiserweight,Main Eventer
+34,Blue Demon Jr,AAA,2005,20,869,6,1,3,10,1,0.72,1.79,4.19,15,27,Women's,Main Eventer
+35,Pagano,AAA,2003,22,160,3,0,6,9,0,0.45,4.61,1.61,14,44,Cruiserweight,Upper Midcard
+36,Aero Star,AAA,1998,27,247,3,2,2,7,0,0.83,1.54,2.9,25,43,Openweight,Main Eventer
+37,Taya Valkyrie,AAA,2008,17,168,2,1,4,7,0,0.48,0.72,1.98,20,22,Junior Heavyweight,Upper Midcard
+38,Psycho Clown Jr,AAA,2017,8,168,3,4,1,8,0,0.7,0.21,4.17,34,38,Cruiserweight,Main Eventer
+39,Sam Adonis,AAA,2009,16,121,5,2,4,11,0,0.77,3.65,1.39,19,35,Junior Heavyweight,Main Eventer
+40,Laredo Kid,AAA,2008,17,763,2,4,1,7,0,0.68,2.02,3.38,11,34,Openweight,Main Eventer
+41,Josh Alexander,Impact,2016,9,465,4,0,2,6,0,0.56,2.98,2.96,29,31,Junior Heavyweight,Main Eventer
+42,Moose,Impact,2012,13,268,4,3,6,13,0,0.75,1.01,0.43,32,43,Openweight,Main Eventer
+43,Eddie Edwards,Impact,2008,17,888,6,1,5,12,0,0.75,0.91,0.26,30,24,Openweight,Main Eventer
+44,Deonna Purrazzo,Impact,2000,25,474,5,4,1,10,0,0.54,2.12,0.71,0,36,Heavyweight,Midcard
+45,Tasha Steelz,Impact,2011,14,230,6,4,3,13,1,0.47,4.27,2.08,29,29,Openweight,Upper Midcard
+46,Alex Shelley,Impact,2015,10,374,6,3,4,13,0,0.8,2.25,4.09,28,41,Cruiserweight,Main Eventer
+47,Chris Bey,Impact,2013,12,315,6,1,6,13,0,0.73,2.7,2.84,17,36,Junior Heavyweight,Main Eventer
+48,Heath,Impact,2000,25,342,1,2,2,5,0,0.62,0.86,1.08,9,44,Cruiserweight,Upper Midcard
+49,Mike Bailey,Impact,2000,25,467,2,4,3,9,0,0.45,2.22,4.08,37,35,Heavyweight,Main Eventer
+50,Gisele Shaw,Impact,2016,9,538,0,2,2,4,0,0.78,4.78,1.91,34,34,Openweight,Main Eventer
+51,Giulia,Stardom,2005,20,274,2,3,3,8,1,0.52,3.46,1.85,10,37,Junior Heavyweight,Upper Midcard
+52,Mayu Iwatani,Stardom,2002,23,596,0,3,4,7,0,0.36,3.29,0.65,29,41,Cruiserweight,Enhancement
+53,Starlight Kid,Stardom,1999,26,438,2,1,3,6,0,0.73,2.02,3.4,26,30,Women's,Main Eventer
+54,Utami Hayashishita,Stardom,2000,25,69,5,4,0,9,0,0.52,3.32,3.53,2,37,Heavyweight,Main Eventer
+55,KAIRI,Stardom,2005,20,70,4,1,1,6,0,0.68,2.91,1.02,16,28,Women's,Upper Midcard
+56,Saya Kamitani,Stardom,2003,22,671,5,0,6,11,0,0.83,0.72,0.16,19,41,Openweight,Main Eventer
+57,Himeka,Stardom,2010,15,782,1,0,4,5,0,0.66,0.69,3.49,38,34,Heavyweight,Main Eventer
+58,Momo Watanabe,Stardom,2016,9,405,4,3,5,12,0,0.6,1.84,3.83,31,23,Heavyweight,Main Eventer
+59,Tam Nakano,Stardom,2011,14,700,6,3,5,14,0,0.44,2.7,2.94,39,33,Openweight,Main Eventer
+60,Natsupoi,Stardom,2013,12,496,6,4,2,12,0,0.47,4.69,1.29,28,36,Cruiserweight,Upper Midcard
+61,Jacob Fatu,MLW,2012,13,674,5,3,2,10,1,0.78,1.07,0.99,16,40,Women's,Main Eventer
+62,Terry Funk MLW,MLW,2006,19,768,2,4,0,6,0,0.45,1.36,1.86,35,41,Cruiserweight,Upper Midcard
+63,Alexander Hammerstone,MLW,2013,12,778,3,3,6,12,1,0.5,2.14,1.13,37,42,Women's,Midcard
+64,Tom Lawlor,MLW,2013,12,593,2,3,5,10,0,0.53,2.38,1.41,14,39,Heavyweight,Upper Midcard
+65,LA Park,MLW,2004,21,172,5,4,6,15,0,0.45,3.75,1.28,37,32,Openweight,Upper Midcard
+66,Davey Boy Smith Jr,MLW,2017,8,152,6,1,2,9,0,0.44,0.27,2.43,17,31,Heavyweight,Upper Midcard
+67,Mance Warner,MLW,1999,26,349,5,1,5,11,0,0.6,4.39,2.6,30,39,Junior Heavyweight,Main Eventer
+68,Low Ki,MLW,2012,13,238,0,2,6,8,0,0.76,2.12,0.38,40,32,Heavyweight,Main Eventer
+69,Mads Krügger,MLW,2002,23,880,4,2,0,6,0,0.41,3.87,2.75,39,26,Cruiserweight,Main Eventer
+70,John Hennigan,MLW,2014,11,511,3,2,6,11,0,0.56,2.93,0.32,6,34,Cruiserweight,Upper Midcard
+71,Ultimo Guerrero,CMLL,2018,7,320,5,0,1,6,0,0.63,0.95,1.87,38,28,Junior Heavyweight,Upper Midcard
+72,Atlantis,CMLL,2007,18,287,2,2,5,9,0,0.39,1.32,1.23,40,23,Openweight,Upper Midcard
+73,Volador Jr,CMLL,2004,21,167,4,1,5,10,0,0.48,0.88,0.32,19,35,Openweight,Midcard
+74,Euforia,CMLL,2016,9,499,0,3,5,8,0,0.55,1.51,2.45,28,31,Heavyweight,Upper Midcard
+75,Blue Panther,CMLL,2017,8,492,5,2,4,11,0,0.4,4.82,3.77,36,23,Openweight,Main Eventer
+76,Mephisto,CMLL,1998,27,891,2,4,0,6,0,0.44,2.69,2.02,17,43,Cruiserweight,Upper Midcard
+77,Soberano Jr,CMLL,2016,9,700,6,3,0,9,0,0.55,1.74,0.52,10,35,Women's,Midcard
+78,Caristico,CMLL,2011,14,557,2,3,6,11,0,0.37,0.62,1.17,7,44,Junior Heavyweight,Enhancement
+79,Magnus,CMLL,2014,11,723,6,4,3,13,0,0.44,1.94,3.42,40,22,Junior Heavyweight,Main Eventer
+80,Titán,CMLL,1999,26,323,4,1,2,7,0,0.7,0.78,4.38,38,28,Cruiserweight,Main Eventer
+81,Nick Aldis,NWA,2003,22,614,0,4,3,7,0,0.85,4.58,2.1,7,31,Cruiserweight,Main Eventer
+82,Trevor Murdoch,NWA,2013,12,348,4,2,3,9,0,0.84,1.37,2.5,24,44,Cruiserweight,Main Eventer
+83,Kamille,NWA,2017,8,814,1,0,2,3,0,0.78,1.83,3.56,17,38,Heavyweight,Main Eventer
+84,Abyss NWA,NWA,2007,18,651,4,3,6,13,0,0.62,1.86,2.51,34,31,Junior Heavyweight,Main Eventer
+85,Tim Storm,NWA,2012,13,243,5,1,4,10,0,0.78,2.17,1.47,30,32,Junior Heavyweight,Main Eventer
+86,Thunder Rosa NWA,NWA,2010,15,861,6,1,3,10,0,0.41,4.83,1.53,6,43,Junior Heavyweight,Upper Midcard
+87,Ricky Starks NWA,NWA,2001,24,517,0,1,3,4,0,0.83,0.56,3.53,16,38,Women's,Main Eventer
+88,Jax Dane,NWA,2017,8,457,5,0,6,11,0,0.69,2.76,4.3,40,44,Junior Heavyweight,Main Eventer
+89,Zicky Dice,NWA,2015,10,682,0,1,5,6,0,0.49,1.29,0.45,6,23,Heavyweight,Midcard
+90,Aron Stevens,NWA,2012,13,760,2,0,0,2,0,0.38,1.92,1.97,15,27,Openweight,Upper Midcard
+91,Super Dragon,PWG,2011,14,748,6,1,1,8,0,0.65,2.04,3.09,31,40,Openweight,Main Eventer
+92,Kevin Steen,PWG,2002,23,522,5,2,3,10,0,0.35,4.06,4.06,34,29,Cruiserweight,Main Eventer
+93,El Generico,PWG,2000,25,403,4,2,5,11,0,0.7,2.39,1.39,24,36,Junior Heavyweight,Upper Midcard
+94,Bobby Fish,PWG,2001,24,440,4,2,4,10,0,0.7,0.31,3.74,25,29,Women's,Main Eventer
+95,Adam Cole,PWG,1998,27,752,6,0,4,10,0,0.77,4.53,3.5,14,40,Openweight,Main Eventer
+96,Ricochet,PWG,2009,16,701,1,4,2,7,0,0.71,3.36,3.78,40,29,Heavyweight,Main Eventer
+97,Matt Sydal,PWG,2018,7,90,2,3,0,5,0,0.72,0.63,1.36,26,42,Cruiserweight,Main Eventer
+98,Zack Sabre Jr,PWG,2004,21,855,4,2,4,10,0,0.49,0.99,4.12,30,26,Women's,Main Eventer
+99,Trent?,PWG,2008,17,529,0,1,6,7,0,0.78,3.68,4.41,35,25,Women's,Main Eventer
+100,Jonathan Gresham PWG,PWG,2000,25,64,2,4,0,6,0,0.69,3.43,2.65,40,34,Women's,Main Eventer
+101,Johnny Gunn,Indie,2001,24,289,3,0,4,7,0,0.63,4.59,1.04,4,43,Junior Heavyweight,Upper Midcard
+102,Ethan Page,Indie,2007,18,468,0,1,0,1,0,0.5,2.56,0.48,34,42,Cruiserweight,Midcard
+103,Marty Scurll,Indie,2010,15,429,5,4,3,12,0,0.71,4.45,2.96,31,36,Openweight,Main Eventer
+104,Nick Gage,Indie,2011,14,83,5,2,1,8,0,0.83,4.31,0.49,23,30,Openweight,Main Eventer
+105,Joey Janela,Indie,2018,7,112,3,2,1,6,0,0.82,4.16,0.46,13,33,Openweight,Main Eventer
+106,Zack Gibson,Indie,1998,27,855,2,1,1,4,0,0.45,4.18,2.52,37,23,Cruiserweight,Main Eventer
+107,Flash Morgan Webster,Indie,2005,20,842,1,4,0,5,0,0.84,4.94,2.45,11,32,Heavyweight,Main Eventer
+108,Mark Haskins,Indie,1998,27,65,2,1,4,7,0,0.44,0.45,3.35,33,26,Heavyweight,Main Eventer
+109,Spike Trivet,Indie,2000,25,509,6,2,4,12,0,0.58,1.26,2.79,33,37,Women's,Main Eventer
+110,Jinny,Indie,2012,13,81,0,3,6,9,0,0.69,2.55,4.1,4,42,Heavyweight,Main Eventer
+111,Zoe Blade,Stardom,2002,23,291,4,2,3,9,0,0.54,2.32,2.12,3,43,Heavyweight,Upper Midcard
+112,Charlotte Ricci,Indie,2006,19,472,1,3,2,6,0,0.46,3.68,1.09,10,43,Women's,Upper Midcard
+113,Miguel Rider,Stardom,2015,10,103,0,0,3,3,0,0.68,4.08,1.95,18,29,Openweight,Upper Midcard
+114,Rosa Rider,NWA,2003,22,372,3,0,2,5,0,0.43,2.93,0.74,21,46,Junior Heavyweight,Enhancement
+115,Marcus Lopez,AAA,2017,8,127,2,1,3,6,0,0.83,4.11,2.15,20,31,Openweight,Main Eventer
+116,Zoe Watson,AEW,2021,4,283,0,1,2,3,0,0.4,1.77,0.02,27,33,Cruiserweight,Enhancement
+117,Nina Black,PWG,2004,21,658,0,0,5,5,0,0.44,2.32,0.55,9,50,Women's,Enhancement
+118,Zoe Black,PWG,2001,24,171,4,0,5,9,0,0.49,2.18,2.12,13,44,Women's,Upper Midcard
+119,Sofia Storm,AAA,2011,14,123,2,3,4,9,0,0.23,2.04,2.1,0,38,Cruiserweight,Upper Midcard
+120,Taylor Costello,Impact,2004,21,271,2,2,0,4,1,0.69,0.96,1.33,22,51,Cruiserweight,Upper Midcard
+121,Charlotte Parker,NWA,2021,4,372,0,3,5,8,0,0.21,4.61,3.02,18,34,Junior Heavyweight,Main Eventer
+122,Nina Valen,PWG,2020,5,306,0,3,0,3,0,0.31,4.74,1.61,22,29,Women's,Upper Midcard
+123,Hana Grimes,NJPW,2003,22,456,4,3,4,11,0,0.77,3.75,0.78,24,43,Cruiserweight,Main Eventer
+124,Sofia Fox,NJPW,2003,22,532,1,2,2,5,0,0.73,4.09,0.83,4,48,Women's,Main Eventer
+125,Riley Knight,AAA,2004,21,787,0,1,5,6,0,0.69,3.82,1.57,29,51,Openweight,Upper Midcard
+126,Dahlia Garcia,Indie,2020,5,164,3,0,3,6,0,0.4,1.45,0.2,16,28,Heavyweight,Enhancement
+127,Yumi Anderson,Impact,2001,24,387,2,0,5,7,0,0.76,3.11,1.77,14,42,Openweight,Main Eventer
+128,Sam Anderson,NWA,2018,7,202,2,3,4,9,0,0.24,0.61,3.15,10,35,Heavyweight,Main Eventer
+129,Riley King,NWA,2007,18,458,3,1,2,6,0,0.38,2.1,1.18,19,47,Heavyweight,Upper Midcard
+130,Rosa Black,Indie,2010,15,581,3,2,2,7,0,0.63,4.54,3.06,10,34,Heavyweight,Main Eventer
+131,Miguel Watson,PWG,2011,14,681,3,1,4,8,0,0.26,2.84,2.25,10,36,Cruiserweight,Main Eventer
+132,Ariana Black,Indie,2020,5,443,4,2,0,6,0,0.32,1.15,3.32,15,33,Cruiserweight,Main Eventer
+133,Carlos Blade,AAA,2002,23,113,4,0,5,9,0,0.7,0.74,1.32,5,45,Cruiserweight,Upper Midcard
+134,Lance Ricci,PWG,2014,11,430,2,1,3,6,0,0.69,3.94,0.82,7,29,Women's,Upper Midcard
+135,Jordan Lopez,CMLL,2021,4,461,3,2,3,8,0,0.47,0.89,0.7,19,31,Cruiserweight,Midcard
+136,Nick Fox,Impact,2015,10,577,0,0,2,2,0,0.3,2.3,1.8,26,33,Junior Heavyweight,Upper Midcard
+137,Casey Parker,NJPW,2014,11,37,3,0,3,6,0,0.35,4.97,1.31,0,34,Women's,Upper Midcard
+138,Rosa Fletcher,NJPW,2004,21,49,2,3,5,10,0,0.69,2.4,2.15,28,41,Heavyweight,Upper Midcard
+139,Noah Molina,AEW,2004,21,754,4,3,0,7,0,0.35,0.7,0.83,20,47,Openweight,Enhancement
+140,Tony Storm,CMLL,2015,10,558,0,1,5,6,0,0.48,3.11,0.84,13,37,Cruiserweight,Midcard
+141,Dante Cruz,Indie,2011,14,548,4,0,3,7,0,0.23,2.0,1.31,23,33,Heavyweight,Upper Midcard
+142,Tony Lopez,Stardom,2007,18,682,0,2,1,3,0,0.55,4.09,0.61,24,47,Junior Heavyweight,Midcard
+143,Riley Fletcher,CMLL,2004,21,743,3,0,2,5,0,0.71,4.44,1.1,9,40,Openweight,Upper Midcard
+144,Becky Brooks,MLW,2008,17,781,1,2,2,5,0,0.23,3.31,0.96,25,35,Women's,Enhancement
+145,Nina Ricci,MLW,2014,11,357,1,3,5,9,0,0.8,2.64,2.8,23,35,Junior Heavyweight,Main Eventer
+146,Hana Knight,NJPW,2005,20,310,2,0,0,2,0,0.39,2.28,2.51,5,46,Junior Heavyweight,Main Eventer
+147,Sakura King,Stardom,2023,2,639,3,2,5,10,0,0.82,0.47,2.23,11,25,Openweight,Main Eventer
+148,Lance Stone,Indie,2004,21,704,3,0,1,4,0,0.71,1.9,1.34,18,48,Heavyweight,Upper Midcard
+149,Sakura Lopez,PWG,2011,14,791,0,1,4,5,0,0.4,1.47,3.36,0,39,Cruiserweight,Main Eventer
+150,Ariana Harrison,CMLL,2017,8,278,2,3,1,6,0,0.39,4.59,1.72,3,27,Cruiserweight,Upper Midcard
+151,Sakura Reyes,NJPW,2022,3,99,2,2,5,9,0,0.55,4.47,2.98,22,28,Cruiserweight,Main Eventer
+152,Sofia Rivera,Stardom,2003,22,152,1,3,0,4,0,0.57,2.39,3.44,4,43,Openweight,Main Eventer
+153,Tony Martinez,NJPW,2012,13,746,3,3,3,9,0,0.25,4.86,2.25,14,42,Junior Heavyweight,Main Eventer
+154,Ariana Lopez,Indie,2004,21,574,4,1,1,6,0,0.79,0.37,0.43,4,51,Women's,Main Eventer
+155,Lance Garcia,ROH,2022,3,364,4,2,0,6,0,0.61,2.8,0.44,9,24,Openweight,Upper Midcard
+156,Lance Morales,NWA,2018,7,185,4,2,4,10,0,0.76,0.5,3.32,24,27,Openweight,Main Eventer
+157,Emma Murphy,Impact,2019,6,41,3,2,5,10,0,0.51,4.04,2.4,9,34,Junior Heavyweight,Main Eventer
+158,Nick Reyes,NJPW,2014,11,505,3,1,2,6,0,0.4,3.62,2.57,27,35,Women's,Main Eventer
+159,Carlos Costello,MLW,2011,14,585,0,2,1,3,0,0.37,1.31,0.34,9,40,Junior Heavyweight,Enhancement
+160,Kira Rivera,PWG,2005,20,601,2,1,1,4,0,0.53,2.54,1.08,0,43,Heavyweight,Upper Midcard
+161,Sofia Anderson,MLW,2007,18,607,2,0,0,2,0,0.59,4.23,2.35,9,39,Openweight,Main Eventer
+162,Marcus Murphy,AEW,2004,21,754,2,3,2,7,0,0.23,2.85,1.27,9,43,Heavyweight,Upper Midcard
+163,Charlotte Santos,MLW,2019,6,635,0,1,0,1,0,0.72,1.76,3.29,24,34,Cruiserweight,Main Eventer
+164,Zoe Cruz,AAA,2012,13,51,0,0,1,1,0,0.72,2.64,0.52,28,39,Openweight,Upper Midcard
+165,Sierra Watson,ROH,2019,6,176,3,2,4,9,0,0.74,2.71,2.48,9,29,Junior Heavyweight,Main Eventer
+166,Luna Garcia,AEW,2021,4,436,4,2,5,11,0,0.61,3.02,0.93,20,23,Openweight,Upper Midcard
+167,Casey Ricci,PWG,2001,24,501,1,3,1,5,0,0.36,2.91,2.45,6,51,Heavyweight,Main Eventer
+168,Sierra Murphy,CMLL,2004,21,717,1,3,4,8,0,0.8,4.38,2.58,1,45,Cruiserweight,Main Eventer
+169,Taylor Vega,NWA,2010,15,499,4,3,2,9,0,0.5,2.71,1.91,21,43,Women's,Upper Midcard
+170,Valentina Molina,PWG,2007,18,581,2,1,2,5,0,0.66,3.48,1.71,15,40,Women's,Upper Midcard
+171,Evan Martinez,NWA,2003,22,702,4,3,3,10,0,0.82,4.04,1.02,9,49,Heavyweight,Main Eventer
+172,Sakura Fox,Stardom,2008,17,500,1,1,4,6,0,0.57,1.43,0.38,23,46,Openweight,Upper Midcard
+173,Logan King,AAA,2021,4,241,1,0,0,1,0,0.67,0.59,2.7,0,30,Openweight,Main Eventer
+174,Kira Fox,ROH,2015,10,676,1,2,2,5,0,0.24,3.87,2.28,7,35,Openweight,Main Eventer
+175,Riley Murphy,AEW,2005,20,416,3,1,5,9,0,0.8,4.4,0.03,18,38,Openweight,Main Eventer
+176,Rosa Martinez,NJPW,2014,11,566,4,3,1,8,0,0.5,1.04,0.39,5,39,Junior Heavyweight,Midcard
+177,Noah Valen,Indie,2005,20,764,2,2,4,8,0,0.33,3.09,2.24,12,38,Junior Heavyweight,Main Eventer
+178,Sierra Black,NWA,2012,13,107,1,1,3,5,0,0.36,1.38,0.82,24,41,Women's,Enhancement
+179,Aaron Morales,Stardom,2023,2,21,2,2,5,9,0,0.63,2.38,0.56,21,29,Openweight,Upper Midcard
+180,Diego Fox,Impact,2009,16,639,1,1,1,3,0,0.5,4.95,1.31,22,39,Openweight,Upper Midcard
+181,Becky Fletcher,CMLL,2021,4,790,1,0,4,5,0,0.66,0.48,1.97,1,25,Openweight,Upper Midcard
+182,Jordan Morales,NWA,2017,8,178,2,3,0,5,0,0.67,2.5,3.15,14,28,Heavyweight,Main Eventer
+183,Carlos Cruz,CMLL,2013,12,587,0,3,5,8,0,0.67,2.04,2.86,23,37,Cruiserweight,Main Eventer
+184,Tony King,PWG,2013,12,727,0,0,0,0,0,0.51,1.51,0.63,4,35,Junior Heavyweight,Midcard
+185,Ivy Anderson,Stardom,2012,13,92,4,1,5,10,0,0.28,4.96,1.38,4,37,Cruiserweight,Upper Midcard
+186,Chris Martinez,AEW,2014,11,746,4,3,4,11,0,0.35,2.36,0.54,6,39,Heavyweight,Enhancement
+187,Kira Knight,AEW,2000,25,221,0,0,4,4,1,0.59,3.55,0.17,23,46,Heavyweight,Upper Midcard
+188,Sakura Rivera,MLW,2017,8,782,0,1,4,5,0,0.35,4.59,2.02,18,29,Openweight,Upper Midcard
+189,Sierra Rivera,Indie,2009,16,686,4,1,3,8,0,0.24,4.75,3.08,29,36,Cruiserweight,Main Eventer
+190,Hana Vega,Indie,2015,10,362,3,2,5,10,0,0.3,1.94,2.64,15,28,Cruiserweight,Main Eventer
+191,Aaron Grimes,AAA,2022,3,484,0,3,3,6,0,0.29,1.29,0.71,20,23,Heavyweight,Enhancement
+192,Luna Black,CMLL,2017,8,205,0,2,3,5,0,0.59,4.38,0.66,24,37,Openweight,Upper Midcard
+193,Charlotte Molina,Indie,2015,10,350,2,0,1,3,0,0.83,0.67,3.5,15,31,Cruiserweight,Main Eventer
+194,Taylor Harrison,PWG,2007,18,339,2,3,3,8,0,0.43,1.38,1.79,15,44,Junior Heavyweight,Upper Midcard
+195,Valentina Costello,NJPW,2010,15,389,2,3,0,5,0,0.34,0.82,0.91,29,36,Openweight,Enhancement
+196,Kira Martinez,PWG,2004,21,347,1,3,4,8,0,0.52,3.31,2.4,8,42,Junior Heavyweight,Main Eventer
+197,Isabella Anderson,Indie,2005,20,370,1,1,5,7,0,0.32,4.46,3.47,30,49,Heavyweight,Main Eventer
+198,Sam Parker,NWA,2002,23,59,0,3,1,4,0,0.35,3.57,0.03,16,51,Junior Heavyweight,Enhancement
+199,Nick Knight,Stardom,2020,5,641,3,3,0,6,1,0.56,0.16,1.85,8,33,Openweight,Upper Midcard
+200,Chris Cruz,Impact,2022,3,450,1,0,0,1,0,0.36,3.14,0.88,11,31,Women's,Enhancement
+201,Dante Lopez,MLW,2012,13,588,1,1,2,4,0,0.75,3.3,3.0,24,38,Heavyweight,Main Eventer
+202,Nina Harrison,NJPW,2012,13,497,0,0,5,5,0,0.52,2.23,2.75,18,39,Heavyweight,Main Eventer
+203,Sam Rivera,NWA,2006,19,590,3,2,0,5,0,0.64,1.47,1.9,21,48,Heavyweight,Upper Midcard
+204,Sierra Stone,ROH,2006,19,157,3,0,2,5,0,0.36,4.19,1.36,28,46,Openweight,Upper Midcard
+205,Ivy Costello,Stardom,2023,2,715,0,2,0,2,0,0.35,0.47,2.12,19,22,Openweight,Upper Midcard
+206,Evan Fletcher,MLW,2014,11,243,2,3,3,8,0,0.58,1.96,2.7,9,36,Cruiserweight,Main Eventer
+207,Dante Santos,NJPW,2004,21,738,1,3,2,6,0,0.26,4.72,1.56,24,45,Women's,Upper Midcard
+208,Carlos Black,NJPW,2005,20,469,4,3,0,7,1,0.43,0.56,2.09,10,44,Junior Heavyweight,Upper Midcard
+209,Blake Murphy,AEW,2012,13,96,4,1,4,9,0,0.65,0.93,0.94,8,43,Junior Heavyweight,Upper Midcard
+210,Tony Reyes,ROH,2013,12,441,2,3,0,5,0,0.81,3.63,1.74,19,34,Cruiserweight,Main Eventer
+211,Marcus Blade,CMLL,2009,16,415,2,3,2,7,0,0.48,4.14,2.28,19,34,Cruiserweight,Main Eventer
+212,Sierra Knight,Impact,2022,3,500,2,1,3,6,0,0.39,3.51,1.72,18,24,Cruiserweight,Upper Midcard
+213,Ivy Santos,Stardom,2012,13,126,4,1,4,9,0,0.32,3.86,0.09,23,36,Junior Heavyweight,Enhancement
+214,Sakura Fletcher,AAA,2009,16,80,3,3,1,7,0,0.36,3.33,2.5,25,45,Junior Heavyweight,Main Eventer
+215,Sakura Knight,NJPW,2015,10,420,4,3,4,11,1,0.83,3.54,2.84,19,37,Heavyweight,Main Eventer
+216,Logan Rider,NJPW,2021,4,180,4,0,4,8,0,0.64,2.06,2.63,30,27,Junior Heavyweight,Main Eventer
+217,Alex Storm,NJPW,2008,17,532,4,1,3,8,0,0.5,3.43,2.42,4,38,Women's,Main Eventer
+218,Valentina Storm,AEW,2009,16,97,0,1,2,3,0,0.5,1.11,1.69,15,40,Heavyweight,Upper Midcard
+219,Sakura Garcia,CMLL,2002,23,55,0,0,2,2,0,0.64,0.91,3.44,7,45,Openweight,Main Eventer
+220,Charlotte Reyes,ROH,2010,15,446,3,1,3,7,0,0.32,3.32,1.38,23,41,Openweight,Upper Midcard
+221,Sakura Morales,AAA,2013,12,14,1,1,2,4,0,0.73,0.41,0.36,27,36,Openweight,Main Eventer
+222,Jordan Anderson,ROH,2003,22,696,3,2,4,9,0,0.46,0.66,1.23,14,44,Openweight,Upper Midcard
+223,Aaron Watson,ROH,2019,6,96,1,2,0,3,0,0.28,1.93,0.49,12,33,Junior Heavyweight,Enhancement
+224,Carlos Morales,PWG,2012,13,200,3,1,4,8,0,0.39,1.02,2.95,19,37,Heavyweight,Main Eventer
+225,Alex Brooks,Stardom,2004,21,403,4,3,3,10,0,0.47,4.22,1.71,2,42,Openweight,Upper Midcard
+226,Casey Martinez,AEW,2001,24,240,4,2,1,7,0,0.57,3.89,1.73,16,46,Heavyweight,Upper Midcard
+227,Diego Santos,PWG,2017,8,565,0,3,4,7,0,0.48,3.71,2.29,7,31,Women's,Main Eventer
+228,Sakura Santos,AEW,2011,14,459,0,1,1,2,0,0.58,1.82,2.49,20,33,Junior Heavyweight,Main Eventer
+229,Dahlia Blade,ROH,2006,19,70,4,2,4,10,0,0.55,1.69,2.46,9,40,Openweight,Main Eventer
+230,Sofia Hall,Impact,2021,4,148,3,0,2,5,0,0.28,4.34,0.87,22,23,Women's,Enhancement
+231,Nina Brooks,AAA,2004,21,657,2,3,3,8,0,0.61,4.41,0.33,16,48,Women's,Upper Midcard
+232,Yumi Brooks,Stardom,2010,15,12,0,3,5,8,0,0.43,0.41,1.87,6,42,Junior Heavyweight,Upper Midcard
+233,Isabella Santos,AAA,2010,15,355,4,1,4,9,0,0.71,4.48,2.67,1,37,Heavyweight,Main Eventer
+234,Yumi Stone,Indie,2003,22,461,3,0,3,6,0,0.65,0.75,2.27,5,42,Women's,Main Eventer
+235,Luna Santos,NJPW,2002,23,690,1,0,3,4,0,0.67,3.8,1.5,2,46,Heavyweight,Upper Midcard
+236,Taylor Brooks,AEW,2002,23,617,1,3,0,4,1,0.42,0.69,3.01,22,43,Cruiserweight,Main Eventer
+237,Tony Rivera,CMLL,2012,13,758,0,0,2,2,0,0.39,1.98,2.85,27,32,Cruiserweight,Main Eventer
+238,Miguel Black,Indie,2016,9,18,4,1,3,8,0,0.34,3.77,3.22,19,36,Junior Heavyweight,Main Eventer
+239,Dante Hall,AAA,2003,22,780,0,3,2,5,0,0.4,0.79,0.97,2,42,Cruiserweight,Enhancement
+240,Zoe Knight,NWA,2023,2,301,0,2,1,3,0,0.53,3.76,1.03,1,29,Cruiserweight,Upper Midcard
+241,Ivy Storm,CMLL,2007,18,663,4,0,4,8,0,0.21,1.87,1.11,12,43,Openweight,Upper Midcard
+242,Luna Vega,MLW,2021,4,791,3,0,0,3,0,0.21,1.16,3.23,30,24,Junior Heavyweight,Main Eventer
+243,Blake Fox,NWA,2022,3,795,3,3,5,11,0,0.62,2.73,0.53,2,29,Women's,Upper Midcard
+244,Sofia Watson,NJPW,2006,19,169,4,2,3,9,0,0.7,3.28,2.25,9,49,Junior Heavyweight,Main Eventer
+245,Nick Rivera,AAA,2002,23,128,3,0,2,5,0,0.63,0.96,0.04,4,47,Heavyweight,Upper Midcard
+246,Isabella Lopez,ROH,2016,9,748,2,1,2,5,0,0.71,1.42,3.1,24,35,Heavyweight,Main Eventer
+247,Hana Santos,Stardom,2016,9,279,4,0,3,7,0,0.43,2.55,1.98,11,28,Cruiserweight,Upper Midcard
+248,Marcus Hall,Impact,2018,7,750,0,1,5,6,0,0.23,4.33,0.86,15,35,Women's,Enhancement
+249,Miguel Reyes,MLW,2001,24,741,3,1,2,6,0,0.8,1.67,2.89,18,50,Women's,Main Eventer
+250,Sofia Rider,NJPW,2001,24,238,4,0,3,7,0,0.5,1.48,2.96,10,44,Heavyweight,Main Eventer
+251,Luna Molina,NWA,2009,16,321,4,1,3,8,0,0.83,4.99,2.72,23,43,Openweight,Main Eventer
+252,Miguel Stone,AAA,2013,12,248,4,2,5,11,0,0.77,4.76,0.01,21,30,Junior Heavyweight,Main Eventer
+253,Marcus Molina,Impact,2016,9,439,3,0,1,4,0,0.26,4.61,3.14,16,30,Junior Heavyweight,Main Eventer
+254,Yumi Ricci,Stardom,2002,23,107,4,1,5,10,0,0.25,2.88,1.52,30,50,Cruiserweight,Upper Midcard
+255,Blake Santos,AAA,2010,15,412,2,2,3,7,0,0.25,1.09,2.73,18,45,Heavyweight,Main Eventer
+256,Marcus Reyes,ROH,2014,11,331,3,0,4,7,0,0.7,2.31,1.62,27,36,Heavyweight,Upper Midcard
+257,Lance Fletcher,NJPW,2021,4,731,4,0,1,5,0,0.41,0.55,0.87,11,26,Junior Heavyweight,Enhancement
+258,Nick Rider,NWA,2009,16,188,0,3,3,6,0,0.56,0.56,0.36,25,38,Cruiserweight,Midcard
+259,Alex King,NJPW,2007,18,212,3,2,5,10,0,0.62,2.95,0.91,26,38,Heavyweight,Upper Midcard
+260,Tony Molina,AEW,2020,5,141,0,2,0,2,0,0.5,0.92,2.01,26,30,Junior Heavyweight,Upper Midcard
+261,Chris Harrison,CMLL,2021,4,186,2,1,1,4,0,0.49,0.83,2.15,19,28,Cruiserweight,Upper Midcard
+262,Blake Brooks,Indie,2013,12,500,0,0,2,2,0,0.47,3.25,2.79,7,38,Openweight,Main Eventer
+263,Ivy Fletcher,AEW,2022,3,501,4,3,2,9,0,0.53,2.0,0.63,10,26,Openweight,Midcard
+264,Chris Hall,AAA,2008,17,493,4,2,4,10,0,0.83,0.59,2.3,8,35,Openweight,Main Eventer
+265,Casey Morales,AEW,2012,13,187,1,1,4,6,0,0.68,1.86,2.07,22,36,Women's,Upper Midcard
+266,Emma Blade,PWG,2018,7,514,4,2,1,7,0,0.26,1.24,0.77,16,28,Junior Heavyweight,Enhancement
+267,Rosa Watson,AEW,2019,6,143,2,1,2,5,0,0.3,3.55,0.5,3,27,Openweight,Enhancement
+268,Nina Morales,Stardom,2003,22,319,2,1,1,4,0,0.48,3.23,1.71,10,45,Cruiserweight,Upper Midcard
+269,Dahlia Fletcher,NWA,2011,14,691,4,1,3,8,0,0.65,0.72,2.55,30,35,Openweight,Main Eventer
+270,Emma King,MLW,2005,20,335,4,1,5,10,0,0.81,0.79,2.61,7,47,Women's,Main Eventer
+271,Lance Fox,Stardom,2002,23,696,2,3,0,5,0,0.36,0.43,0.9,3,52,Heavyweight,Enhancement
+272,Kira Reyes,AEW,2013,12,397,2,3,0,5,0,0.71,2.93,2.65,7,37,Cruiserweight,Main Eventer
+273,Tony Fletcher,CMLL,2001,24,30,2,2,0,4,0,0.31,1.94,2.56,17,46,Heavyweight,Main Eventer
+274,Valentina Valen,Stardom,2000,25,679,1,3,1,5,0,0.42,4.87,1.43,17,49,Openweight,Upper Midcard
+275,Blake Martinez,Impact,2007,18,60,3,3,1,7,0,0.2,0.53,2.88,20,37,Openweight,Main Eventer
+276,Jordan Storm,CMLL,2000,25,184,2,0,3,5,0,0.4,2.05,1.71,21,46,Women's,Upper Midcard
+277,Becky Harrison,NJPW,2005,20,400,2,1,3,6,0,0.49,1.39,2.93,18,43,Heavyweight,Main Eventer
+278,Marcus Black,ROH,2021,4,564,3,1,4,8,0,0.45,2.66,3.38,21,27,Junior Heavyweight,Main Eventer
+279,Logan Brooks,PWG,2009,16,414,0,1,0,1,0,0.49,4.75,0.59,6,35,Cruiserweight,Midcard
+280,Sam Murphy,ROH,2002,23,455,1,1,4,6,0,0.79,4.58,0.23,12,51,Openweight,Main Eventer
+281,Charlotte Garcia,MLW,2008,17,479,0,3,0,3,0,0.3,2.98,2.65,30,43,Heavyweight,Main Eventer
+282,Emma Costello,NJPW,2003,22,302,4,2,3,9,0,0.63,2.9,1.66,5,52,Women's,Upper Midcard
+283,Miguel Knight,MLW,2019,6,720,3,0,3,6,0,0.42,1.26,2.61,29,34,Women's,Main Eventer
+284,Chris Garcia,Stardom,2009,16,297,3,0,1,4,0,0.83,2.27,2.89,8,38,Junior Heavyweight,Main Eventer
+285,Dante Molina,PWG,2014,11,426,3,2,0,5,0,0.3,1.62,1.77,4,32,Openweight,Upper Midcard
+286,Chris Reyes,PWG,2006,19,69,1,0,3,4,0,0.43,1.08,1.29,14,40,Openweight,Upper Midcard
+287,Diego Rider,MLW,2000,25,391,3,3,1,7,0,0.51,2.8,1.2,26,46,Women's,Upper Midcard
+288,Blake Stone,NJPW,2012,13,176,4,1,1,6,0,0.64,1.42,1.43,0,31,Heavyweight,Upper Midcard
+289,Carlos Fox,CMLL,2005,20,18,1,2,4,7,0,0.4,4.84,2.25,13,47,Junior Heavyweight,Main Eventer
+290,Yumi Santos,Stardom,2006,19,319,4,3,4,11,0,0.53,3.35,2.95,11,44,Openweight,Main Eventer
+291,Marcus Brooks,Indie,2002,23,293,2,2,2,6,0,0.82,3.29,0.66,16,46,Cruiserweight,Main Eventer
+292,Zoe Harrison,AEW,2021,4,707,1,0,5,6,0,0.39,4.54,1.42,23,27,Heavyweight,Upper Midcard
+293,Emma Parker,PWG,2006,19,753,1,3,5,9,0,0.4,0.93,2.3,17,42,Cruiserweight,Main Eventer
+294,Carlos Ricci,Impact,2008,17,582,1,2,5,8,0,0.43,3.75,1.07,25,46,Women's,Upper Midcard
+295,Noah Morales,Stardom,2009,16,130,3,0,5,8,0,0.81,0.45,3.11,16,41,Heavyweight,Main Eventer
+296,Ivy Cruz,Indie,2009,16,65,1,1,1,3,0,0.84,4.47,3.45,4,40,Women's,Main Eventer
+297,Dante Brooks,ROH,2010,15,191,2,0,0,2,0,0.34,3.89,2.02,5,43,Junior Heavyweight,Upper Midcard
+298,Carlos Knight,NJPW,2013,12,449,3,3,3,9,0,0.22,1.08,1.31,0,40,Women's,Upper Midcard
+299,Jordan Stone,NWA,2021,4,651,1,1,5,7,0,0.4,0.6,1.76,9,22,Cruiserweight,Upper Midcard
+300,Sam Martinez,NJPW,2009,16,755,4,2,3,9,0,0.85,1.78,3.15,11,41,Cruiserweight,Main Eventer
+301,Nina Stone,ROH,2007,18,754,1,1,5,7,1,0.53,0.7,2.49,25,39,Heavyweight,Main Eventer
+302,Noah Costello,MLW,2017,8,59,4,0,5,9,0,0.74,0.34,0.41,14,35,Junior Heavyweight,Main Eventer
+303,Miguel Molina,NJPW,2022,3,655,0,2,3,5,0,0.63,1.42,2.12,4,31,Junior Heavyweight,Upper Midcard
+304,Sofia Ricci,NJPW,2019,6,299,0,0,3,3,0,0.33,1.39,1.83,6,25,Women's,Upper Midcard
+305,Blake Reyes,MLW,2001,24,518,1,3,2,6,0,0.21,0.54,0.39,18,50,Junior Heavyweight,Enhancement
+306,Dante Costello,ROH,2016,9,750,0,2,5,7,0,0.84,1.55,1.62,3,28,Cruiserweight,Main Eventer
+307,Blake Lopez,AEW,2021,4,446,0,0,0,0,1,0.29,3.27,1.15,28,27,Junior Heavyweight,Upper Midcard
+308,Evan Hall,PWG,2023,2,391,2,1,0,3,0,0.83,1.43,1.35,27,21,Junior Heavyweight,Main Eventer
+309,Lance Storm,MLW,2004,21,753,0,1,0,1,0,0.58,4.03,2.37,5,50,Openweight,Main Eventer
+310,Maya Knight,MLW,2000,25,754,1,3,3,7,0,0.47,0.33,0.92,10,53,Heavyweight,Midcard
+311,Ariana Costello,Indie,2023,2,751,4,1,5,10,0,0.54,3.47,2.16,13,29,Cruiserweight,Upper Midcard
+312,Maya Rider,CMLL,2021,4,404,1,0,0,1,0,0.3,4.26,2.98,27,32,Cruiserweight,Main Eventer
+313,Isabella Garcia,NJPW,2007,18,294,0,1,4,5,0,0.46,1.25,1.61,25,41,Openweight,Upper Midcard
+314,Dante Grimes,CMLL,2015,10,333,0,3,5,8,0,0.27,2.12,1.95,0,35,Heavyweight,Upper Midcard
+315,Dahlia Fox,PWG,2009,16,585,1,3,2,6,0,0.24,1.19,1.59,17,42,Openweight,Upper Midcard
+316,Luna Valen,PWG,2014,11,109,1,0,2,3,0,0.61,4.02,1.92,11,30,Heavyweight,Upper Midcard
+317,Lance Brooks,AEW,2004,21,770,3,0,2,5,0,0.32,4.66,1.38,14,50,Cruiserweight,Upper Midcard
+318,Marcus Costello,Stardom,2013,12,658,4,0,3,7,0,0.58,2.57,3.37,0,30,Openweight,Main Eventer
+319,Charlotte Watson,AEW,2013,12,504,4,1,5,10,0,0.67,0.73,1.36,19,39,Openweight,Upper Midcard
+320,Ivy Murphy,Stardom,2019,6,790,1,2,3,6,0,0.83,2.32,0.47,13,35,Openweight,Main Eventer
+321,Aaron Parker,NWA,2022,3,331,4,1,1,6,0,0.66,3.46,3.22,4,29,Cruiserweight,Main Eventer
+322,Becky Valen,NWA,2020,5,737,0,2,4,6,0,0.57,3.37,1.46,23,28,Openweight,Upper Midcard
+323,Hana Fletcher,Impact,2000,25,119,0,3,1,4,0,0.24,1.41,2.75,9,51,Women's,Main Eventer
+324,Nick Valen,ROH,2009,16,781,4,0,2,6,0,0.27,4.35,2.59,27,37,Cruiserweight,Main Eventer
+325,Charlotte Harrison,Indie,2007,18,722,2,0,3,5,0,0.82,4.88,1.09,17,44,Heavyweight,Main Eventer
+326,Dahlia Grimes,AEW,2014,11,658,2,1,5,8,0,0.39,0.97,2.39,5,32,Cruiserweight,Main Eventer
+327,Diego Harrison,NWA,2001,24,295,4,2,1,7,0,0.75,0.13,1.63,29,48,Cruiserweight,Main Eventer
+328,Nick Costello,AEW,2020,5,687,2,3,4,9,0,0.25,3.57,1.84,30,32,Cruiserweight,Upper Midcard
+329,Sofia Reyes,NWA,2013,12,559,3,0,2,5,0,0.34,1.73,1.26,6,38,Openweight,Upper Midcard
+330,Valentina Vega,NWA,2020,5,127,2,3,1,6,0,0.6,3.14,3.36,21,23,Women's,Main Eventer
+331,Noah Vega,MLW,2023,2,35,4,2,4,10,0,0.49,0.31,3.14,6,24,Women's,Main Eventer
+332,Dante Storm,NWA,2005,20,560,4,0,5,9,0,0.64,3.89,3.03,13,50,Heavyweight,Main Eventer
+333,Becky Parker,AAA,2022,3,455,0,1,0,1,0,0.42,0.53,0.19,25,32,Women's,Enhancement
+334,Tony Morales,NWA,2007,18,427,3,3,5,11,0,0.41,2.01,0.41,0,40,Openweight,Enhancement
+335,Olivia King,NJPW,2022,3,376,4,0,2,6,0,0.4,0.52,2.68,14,22,Junior Heavyweight,Main Eventer
+336,Chris Brooks,MLW,2005,20,235,1,3,4,8,0,0.61,1.56,3.1,30,46,Women's,Main Eventer
+337,Charlotte Grimes,AEW,2017,8,136,0,0,4,4,0,0.55,4.74,1.07,23,28,Women's,Upper Midcard
+338,Kira Hall,AAA,2020,5,155,1,1,1,3,0,0.36,0.66,2.35,18,31,Heavyweight,Main Eventer
+339,Yumi Fox,NWA,2017,8,307,0,2,0,2,0,0.58,4.76,1.25,21,27,Cruiserweight,Upper Midcard
+340,Blake Knight,NJPW,2002,23,335,3,3,2,8,0,0.4,2.96,1.98,11,44,Women's,Upper Midcard
+341,Casey Valen,MLW,2023,2,456,2,2,1,5,0,0.42,2.45,1.56,24,30,Women's,Upper Midcard
+342,Charlotte Storm,CMLL,2005,20,631,0,2,1,3,0,0.33,3.69,2.19,23,48,Heavyweight,Upper Midcard
+343,Chris Parker,AEW,2018,7,424,4,1,0,5,0,0.55,4.99,1.65,24,34,Cruiserweight,Upper Midcard
+344,Nina Rivera,Stardom,2018,7,307,1,3,4,8,0,0.46,2.56,2.32,27,36,Openweight,Main Eventer
+345,Lance Costello,Indie,2016,9,466,1,1,4,6,0,0.63,4.84,2.58,15,29,Women's,Main Eventer
+346,Casey Costello,AEW,2015,10,74,2,2,1,5,0,0.33,4.55,1.26,15,31,Junior Heavyweight,Upper Midcard
+347,Sam Fox,AEW,2010,15,730,4,2,5,11,0,0.55,0.95,2.29,11,34,Openweight,Main Eventer
+348,Tony Cruz,Indie,2008,17,238,4,3,2,9,0,0.42,3.98,3.11,0,41,Openweight,Main Eventer
+349,Casey Black,ROH,2016,9,297,1,1,1,3,0,0.59,4.1,2.31,13,37,Women's,Main Eventer
+350,Valentina Rider,NJPW,2015,10,225,4,1,5,10,0,0.21,0.31,2.01,5,35,Cruiserweight,Upper Midcard
+351,Sofia King,Indie,2018,7,67,1,2,1,4,0,0.46,4.85,2.23,28,27,Women's,Main Eventer
+352,Taylor Anderson,NJPW,2019,6,503,1,1,3,5,0,0.72,4.12,0.64,21,31,Openweight,Upper Midcard
+353,Yumi Knight,Impact,2018,7,245,3,3,1,7,0,0.33,4.31,1.77,13,26,Cruiserweight,Upper Midcard
+354,Valentina Hall,PWG,2019,6,49,4,0,0,4,0,0.28,3.06,2.9,28,33,Junior Heavyweight,Main Eventer
+355,Kira Lopez,NWA,2001,24,552,3,1,3,7,0,0.45,2.99,2.59,24,53,Openweight,Main Eventer
+356,Hana Blade,NJPW,2008,17,794,1,0,2,3,0,0.55,1.36,0.02,23,42,Heavyweight,Midcard
+357,Ariana Storm,PWG,2016,9,394,1,2,3,6,0,0.3,3.29,0.89,27,27,Openweight,Enhancement
+358,Emma Lopez,MLW,2019,6,706,3,1,3,7,0,0.56,0.98,1.96,15,28,Women's,Upper Midcard
+359,Carlos Grimes,Impact,2021,4,775,1,3,5,9,0,0.27,2.59,2.75,25,23,Openweight,Main Eventer
+360,Ivy Fox,PWG,2000,25,103,1,3,4,8,0,0.24,1.19,0.28,1,55,Junior Heavyweight,Enhancement
+361,Ariana Martinez,MLW,2022,3,68,1,3,3,7,1,0.75,4.66,1.81,6,30,Heavyweight,Main Eventer
+362,Sofia Cruz,PWG,2022,3,639,1,0,2,3,0,0.2,0.87,3.49,24,24,Junior Heavyweight,Main Eventer
+363,Olivia Molina,Stardom,2016,9,764,0,0,4,4,0,0.74,4.58,1.22,30,27,Women's,Main Eventer
+364,Zoe Molina,AAA,2014,11,598,0,2,1,3,0,0.27,0.45,1.03,30,35,Heavyweight,Upper Midcard
+365,Noah Hall,NWA,2017,8,598,2,3,3,8,0,0.7,3.81,3.36,14,38,Junior Heavyweight,Main Eventer
+366,Tony Harrison,PWG,2020,5,235,1,2,3,6,0,0.54,0.15,2.91,7,35,Women's,Main Eventer
+367,Nina Rider,NJPW,2023,2,87,4,1,3,8,0,0.34,2.91,0.64,23,25,Cruiserweight,Enhancement
+368,Jordan Rivera,CMLL,2023,2,281,1,1,1,3,0,0.74,1.84,2.73,3,23,Heavyweight,Main Eventer
+369,Isabella Knight,Indie,2000,25,564,0,3,2,5,0,0.52,4.93,3.14,27,55,Women's,Main Eventer
+370,Riley Costello,CMLL,2016,9,417,1,1,0,2,0,0.48,4.7,0.11,11,31,Junior Heavyweight,Midcard
+371,Riley Anderson,Indie,2003,22,540,3,2,5,10,1,0.64,1.96,0.35,11,51,Openweight,Upper Midcard
+372,Riley Vega,Impact,2008,17,285,3,2,2,7,0,0.48,2.15,2.63,11,38,Junior Heavyweight,Main Eventer
+373,Emma Rider,Impact,2007,18,748,2,1,4,7,0,0.45,0.81,3.36,4,37,Junior Heavyweight,Main Eventer
+374,Isabella Blade,AEW,2020,5,556,2,3,2,7,0,0.76,0.33,0.35,5,31,Heavyweight,Main Eventer
+375,Noah Brooks,AAA,2020,5,470,2,2,2,6,0,0.56,4.07,1.2,13,24,Heavyweight,Upper Midcard
+376,Emma Morales,Stardom,2020,5,561,1,2,2,5,0,0.53,3.9,1.56,2,33,Junior Heavyweight,Upper Midcard
+377,Blake Anderson,PWG,2020,5,181,2,3,5,10,0,0.46,4.54,0.28,10,25,Cruiserweight,Midcard
+378,Sierra Fox,Stardom,2009,16,283,4,3,2,9,0,0.71,4.7,2.62,16,45,Junior Heavyweight,Main Eventer
+379,Lance Reyes,MLW,2000,25,755,1,2,5,8,0,0.25,0.92,0.36,2,45,Junior Heavyweight,Enhancement
+380,Nick Stone,NWA,2012,13,793,0,0,2,2,0,0.25,4.66,1.36,7,39,Cruiserweight,Upper Midcard
+381,Ariana Parker,Impact,2005,20,45,2,2,3,7,0,0.77,4.68,1.92,4,38,Openweight,Main Eventer
+382,Olivia Knight,ROH,2014,11,776,4,3,4,11,0,0.55,4.55,1.69,7,39,Heavyweight,Upper Midcard
+383,Aaron Lopez,CMLL,2013,12,169,2,0,0,2,0,0.69,0.77,1.0,17,34,Heavyweight,Upper Midcard
+384,Valentina Martinez,CMLL,2000,25,450,2,1,0,3,0,0.32,4.42,1.53,7,55,Cruiserweight,Upper Midcard
+385,Ivy Parker,Indie,2012,13,279,0,3,5,8,0,0.7,4.56,2.83,21,34,Women's,Main Eventer
+386,Evan Murphy,Impact,2006,19,196,1,2,0,3,0,0.6,1.43,2.18,6,38,Women's,Upper Midcard
+387,Miguel King,AEW,2017,8,200,0,2,2,4,0,0.48,0.14,0.32,0,26,Junior Heavyweight,Midcard
+388,Rosa Murphy,AAA,2009,16,520,2,3,5,10,0,0.41,4.23,3.33,1,46,Women's,Main Eventer
+389,Tony Vega,MLW,2015,10,206,2,3,0,5,0,0.7,1.32,2.7,14,30,Cruiserweight,Main Eventer
+390,Marcus Cruz,AEW,2021,4,494,3,2,2,7,0,0.67,3.75,1.92,3,25,Women's,Upper Midcard
+391,Aaron Molina,CMLL,2011,14,692,1,0,1,2,0,0.41,0.92,0.97,3,32,Junior Heavyweight,Enhancement
+392,Olivia Fletcher,AAA,2022,3,714,4,1,2,7,0,0.36,2.55,2.4,10,28,Heavyweight,Main Eventer
+393,Maya Fox,AEW,2004,21,559,0,1,3,4,0,0.84,3.96,2.65,25,50,Junior Heavyweight,Main Eventer
+394,Chris Valen,AAA,2012,13,751,1,2,0,3,0,0.48,1.54,2.44,6,36,Openweight,Main Eventer
+395,Becky Lopez,ROH,2010,15,489,2,1,0,3,0,0.49,4.12,1.9,14,44,Heavyweight,Upper Midcard
+396,Sofia Harrison,Indie,2023,2,29,4,2,4,10,0,0.67,3.33,1.89,12,22,Cruiserweight,Upper Midcard
+397,Isabella Costello,NWA,2017,8,637,2,2,3,7,0,0.27,2.66,0.23,26,28,Cruiserweight,Enhancement
+398,Sam Molina,ROH,2003,22,206,0,0,4,4,0,0.45,2.5,2.18,18,47,Women's,Upper Midcard
+399,Luna Rivera,AEW,2019,6,82,0,1,5,6,0,0.78,0.49,2.8,1,35,Women's,Main Eventer
+400,Kira Parker,NWA,2011,14,735,0,2,4,6,0,0.25,1.59,3.31,30,44,Openweight,Main Eventer
+401,Marcus Ricci,NJPW,2007,18,404,1,1,4,6,0,0.57,4.74,1.95,17,44,Junior Heavyweight,Upper Midcard
+402,Yumi Valen,NJPW,2021,4,116,1,1,4,6,0,0.42,0.88,3.49,14,28,Women's,Main Eventer
+403,Luna Murphy,Stardom,2020,5,753,2,1,4,7,0,0.44,2.8,2.61,11,29,Junior Heavyweight,Main Eventer
+404,Zoe Stone,CMLL,2016,9,319,0,2,1,3,0,0.4,3.88,3.3,26,29,Women's,Main Eventer
+405,Sofia Vega,NWA,2018,7,168,0,0,3,3,0,0.29,1.9,2.04,7,34,Women's,Upper Midcard
+406,Dante Morales,Impact,2012,13,232,0,2,3,5,0,0.74,3.48,2.02,29,40,Heavyweight,Main Eventer
+407,Aaron King,PWG,2023,2,600,3,0,0,3,0,0.42,4.41,1.52,29,32,Heavyweight,Upper Midcard
+408,Alex Fox,AAA,2020,5,65,2,0,2,4,0,0.3,2.56,0.77,1,29,Junior Heavyweight,Enhancement
+409,Zoe Morales,CMLL,2016,9,237,3,2,3,8,0,0.42,2.43,2.61,17,28,Junior Heavyweight,Main Eventer
+410,Dante Harrison,Impact,2016,9,724,1,1,3,5,0,0.52,3.3,0.69,19,33,Openweight,Midcard
+411,Logan Black,AAA,2008,17,450,2,0,0,2,0,0.48,1.81,1.12,19,47,Heavyweight,Upper Midcard
+412,Lance Lopez,Impact,2019,6,462,4,1,3,8,0,0.73,1.08,1.31,24,36,Heavyweight,Main Eventer
+413,Dahlia Watson,NJPW,2004,21,24,2,0,2,4,0,0.21,1.12,1.88,6,43,Openweight,Upper Midcard
+414,Valentina Knight,NWA,2023,2,721,0,3,4,7,0,0.54,1.35,0.21,6,22,Openweight,Midcard
+415,Nick Anderson,Impact,2020,5,78,3,2,5,10,0,0.63,4.33,0.07,27,23,Junior Heavyweight,Upper Midcard
+416,Sierra Brooks,AAA,2019,6,100,1,1,4,6,0,0.56,3.59,0.14,29,32,Openweight,Midcard
+417,Rosa Brooks,Impact,2012,13,170,0,2,5,7,0,0.61,1.26,3.42,16,42,Women's,Main Eventer
+418,Ivy Hall,AEW,2000,25,296,1,1,2,4,0,0.63,0.53,1.34,30,51,Openweight,Upper Midcard
+419,Casey Murphy,Indie,2007,18,166,3,2,4,9,0,0.55,1.11,0.49,17,45,Cruiserweight,Midcard
+420,Aaron Valen,ROH,2022,3,148,3,1,5,9,0,0.8,1.66,1.95,30,29,Heavyweight,Main Eventer
+421,Sierra Parker,ROH,2004,21,40,2,3,3,8,0,0.68,4.13,2.23,23,50,Women's,Main Eventer
+422,Carlos Reyes,ROH,2000,25,636,4,2,4,10,0,0.35,1.24,2.41,11,55,Heavyweight,Main Eventer
+423,Zoe Brooks,CMLL,2022,3,392,1,3,3,7,0,0.31,1.21,1.43,0,31,Women's,Upper Midcard
+424,Jordan Costello,MLW,2006,19,191,3,3,5,11,0,0.5,1.31,1.42,1,38,Openweight,Upper Midcard
+425,Sierra Harrison,MLW,2019,6,595,4,0,4,8,0,0.5,4.4,3.07,7,35,Openweight,Main Eventer
+426,Sam Vega,NWA,2012,13,793,0,1,2,3,0,0.77,3.89,1.0,5,39,Junior Heavyweight,Main Eventer
+427,Ariana Hall,Impact,2004,21,671,3,0,5,8,0,0.32,2.97,3.13,17,46,Cruiserweight,Main Eventer
+428,Kira Garcia,MLW,2014,11,193,3,1,3,7,0,0.41,3.28,2.49,5,29,Heavyweight,Main Eventer
+429,Diego Valen,NJPW,2014,11,381,0,3,5,8,0,0.53,4.75,1.33,12,39,Heavyweight,Upper Midcard
+430,Rosa Morales,ROH,2021,4,176,1,1,5,7,0,0.4,3.68,3.36,9,24,Cruiserweight,Main Eventer
+431,Carlos Molina,NJPW,2000,25,793,2,0,3,5,0,0.52,4.06,2.13,15,52,Cruiserweight,Upper Midcard
+432,Olivia Rider,AAA,2015,10,429,3,0,4,7,0,0.36,2.78,2.17,17,35,Cruiserweight,Upper Midcard
+433,Riley Blade,AEW,2001,24,367,0,1,0,1,0,0.74,1.56,3.22,1,52,Heavyweight,Main Eventer
+434,Riley Reyes,MLW,2021,4,635,4,1,3,8,0,0.43,0.28,2.69,10,26,Women's,Main Eventer
+435,Tony Costello,MLW,2013,12,76,2,3,1,6,0,0.76,1.71,1.45,6,38,Cruiserweight,Main Eventer
+436,Nick Storm,PWG,2018,7,654,4,0,3,7,0,0.59,3.96,2.47,13,36,Openweight,Main Eventer
+437,Noah Cruz,Stardom,2018,7,372,1,3,4,8,0,0.52,4.06,3.09,7,34,Women's,Main Eventer
+438,Chris Anderson,AAA,2020,5,130,1,3,3,7,0,0.43,4.05,0.74,20,35,Cruiserweight,Enhancement
+439,Noah Fletcher,Impact,2002,23,317,4,2,0,6,0,0.42,2.04,1.99,30,45,Heavyweight,Upper Midcard
+440,Jordan Garcia,ROH,2010,15,500,3,0,5,8,0,0.3,2.36,3.03,28,43,Women's,Main Eventer
+441,Kira Watson,CMLL,2023,2,543,2,2,4,8,0,0.34,3.46,2.8,28,20,Women's,Main Eventer
+442,Miguel Santos,NJPW,2000,25,394,4,1,4,9,0,0.32,0.67,2.74,9,48,Women's,Main Eventer
+443,Logan Lopez,AEW,2014,11,231,4,2,1,7,0,0.71,3.91,3.2,14,33,Openweight,Main Eventer
+444,Sofia Blade,AEW,2006,19,505,4,2,2,8,0,0.77,4.13,3.28,21,42,Cruiserweight,Main Eventer
+445,Ivy Valen,AAA,2016,9,14,2,0,5,7,0,0.77,1.73,3.11,3,28,Openweight,Main Eventer
+446,Aaron Stone,Indie,2018,7,329,1,2,1,4,0,0.38,1.66,1.54,3,37,Women's,Upper Midcard
+447,Lance Santos,ROH,2003,22,647,4,0,1,5,0,0.56,1.43,3.3,25,40,Women's,Main Eventer
+448,Logan Reyes,PWG,2002,23,637,2,3,0,5,0,0.51,3.41,0.37,1,45,Heavyweight,Midcard
+449,Nina Reyes,MLW,2022,3,616,3,2,2,7,0,0.33,3.82,2.83,2,30,Junior Heavyweight,Main Eventer
+450,Yumi Storm,PWG,2014,11,710,3,3,1,7,0,0.29,4.49,0.9,11,33,Junior Heavyweight,Enhancement
+451,Sierra Anderson,ROH,2015,10,76,3,0,2,5,0,0.75,1.48,1.22,18,28,Cruiserweight,Main Eventer
+452,Marcus Harrison,NWA,2022,3,119,2,0,2,4,0,0.46,2.13,2.17,17,33,Cruiserweight,Upper Midcard
+453,Ivy Black,CMLL,2010,15,720,4,3,3,10,0,0.42,3.5,0.61,21,36,Heavyweight,Enhancement
+454,Isabella Storm,PWG,2018,7,484,2,0,3,5,0,0.82,0.44,0.38,26,34,Openweight,Main Eventer
+455,Nick Black,MLW,2006,19,604,0,1,5,6,0,0.55,2.01,2.02,6,39,Cruiserweight,Upper Midcard
+456,Sierra Martinez,Indie,2018,7,705,2,3,5,10,0,0.42,0.54,0.03,16,37,Junior Heavyweight,Enhancement
+457,Blake King,ROH,2011,14,64,0,2,0,2,0,0.76,1.25,2.46,12,40,Women's,Main Eventer
+458,Taylor Rider,MLW,2005,20,152,1,3,2,6,0,0.3,4.99,2.35,4,45,Heavyweight,Main Eventer
+459,Chris Blade,NJPW,2023,2,683,3,1,0,4,0,0.72,4.31,3.13,22,27,Openweight,Main Eventer
+460,Dahlia Reyes,MLW,2014,11,444,4,3,3,10,0,0.32,3.06,2.02,27,37,Cruiserweight,Upper Midcard
+461,Becky Morales,NWA,2011,14,48,4,3,5,12,0,0.58,4.81,0.28,23,32,Openweight,Upper Midcard
+462,Yumi Cruz,Impact,2002,23,634,0,1,3,4,0,0.63,3.38,2.39,17,49,Openweight,Main Eventer
+463,Dahlia King,Impact,2010,15,21,3,3,4,10,0,0.57,1.72,1.24,25,41,Women's,Upper Midcard
+464,Lance King,Impact,2022,3,777,2,2,0,4,0,0.58,2.91,2.3,9,30,Openweight,Main Eventer
+465,Dante Blade,AEW,2016,9,294,2,1,4,7,0,0.76,0.17,0.39,5,28,Openweight,Main Eventer
+466,Riley Santos,ROH,2022,3,506,1,0,2,3,0,0.83,3.02,2.88,26,24,Junior Heavyweight,Main Eventer
+467,Ivy Rivera,MLW,2021,4,753,1,1,4,6,0,0.42,3.25,2.64,3,29,Heavyweight,Main Eventer
+468,Yumi Harrison,ROH,2015,10,497,4,1,3,8,0,0.45,1.39,1.86,13,32,Heavyweight,Upper Midcard
+469,Sakura Harrison,Impact,2021,4,552,0,0,4,4,0,0.82,2.22,3.21,27,27,Women's,Main Eventer
+470,Evan Santos,Stardom,2003,22,680,4,3,3,10,0,0.69,3.7,2.06,6,44,Openweight,Upper Midcard
+471,Riley Garcia,Stardom,2017,8,698,0,0,0,0,0,0.54,3.46,1.23,23,26,Women's,Upper Midcard
+472,Jordan King,Impact,2000,25,104,0,1,4,5,0,0.66,0.69,3.0,4,52,Junior Heavyweight,Main Eventer
+473,Emma Fletcher,Indie,2005,20,722,1,2,2,5,0,0.81,3.23,3.23,8,39,Junior Heavyweight,Main Eventer
+474,Sierra Santos,Indie,2005,20,85,2,0,3,5,0,0.85,1.37,2.84,5,50,Junior Heavyweight,Main Eventer
+475,Isabella Watson,NJPW,2006,19,412,1,3,0,4,0,0.7,1.17,2.25,29,46,Junior Heavyweight,Main Eventer
+476,Marcus King,Impact,2002,23,595,2,3,0,5,0,0.3,3.24,3.27,21,42,Junior Heavyweight,Main Eventer
+477,Miguel Valen,Impact,2010,15,598,0,3,3,6,0,0.75,3.93,2.75,17,39,Cruiserweight,Main Eventer
+478,Emma Vega,AEW,2011,14,708,2,3,0,5,0,0.82,0.54,1.87,30,37,Women's,Main Eventer
+479,Yumi Costello,NJPW,2009,16,217,1,0,3,4,0,0.39,2.01,0.37,22,44,Women's,Enhancement
+480,Sakura Ricci,CMLL,2006,19,46,1,0,5,6,0,0.36,2.0,2.77,20,39,Women's,Main Eventer
+481,Sakura Stone,CMLL,2001,24,67,2,0,3,5,0,0.72,3.37,1.6,21,47,Openweight,Upper Midcard
+482,Olivia Rivera,ROH,2002,23,763,1,3,5,9,1,0.79,3.13,0.85,20,41,Cruiserweight,Main Eventer
+483,Riley Fox,AEW,2001,24,109,3,1,4,8,0,0.73,0.66,2.08,19,46,Cruiserweight,Main Eventer
+484,Jordan Murphy,NJPW,2010,15,765,3,2,0,5,0,0.57,0.77,2.93,25,45,Cruiserweight,Main Eventer
+485,Olivia Reyes,AEW,2010,15,133,2,1,3,6,0,0.44,0.91,0.85,18,34,Heavyweight,Enhancement
+486,Marcus Fletcher,ROH,2020,5,395,1,0,3,4,0,0.2,4.64,2.47,18,32,Women's,Main Eventer
+487,Miguel Fox,MLW,2008,17,471,3,1,1,5,0,0.22,0.98,1.75,30,43,Heavyweight,Upper Midcard
+488,Kira Stone,Indie,2017,8,206,0,0,4,4,0,0.69,2.74,0.77,24,29,Cruiserweight,Upper Midcard
+489,Nick Molina,Impact,2003,22,162,3,3,1,7,0,0.8,0.36,1.27,6,52,Junior Heavyweight,Main Eventer
+490,Rosa Knight,Impact,2014,11,116,0,1,1,2,0,0.52,0.67,3.13,23,29,Junior Heavyweight,Main Eventer
+491,Olivia Garcia,PWG,2013,12,775,2,1,0,3,0,0.26,3.71,3.04,12,33,Cruiserweight,Main Eventer
+492,Valentina Morales,NJPW,2015,10,456,1,1,4,6,0,0.45,0.77,2.52,20,28,Women's,Main Eventer
+493,Carlos King,Impact,2022,3,71,2,1,0,3,0,0.5,0.94,1.2,28,30,Women's,Upper Midcard
+494,Dahlia Hall,PWG,2005,20,576,1,0,3,4,0,0.52,4.98,2.07,26,47,Junior Heavyweight,Upper Midcard
+495,Alex Ricci,Impact,2013,12,262,1,2,3,6,0,0.78,3.0,0.52,18,41,Heavyweight,Main Eventer
+496,Sam King,MLW,2015,10,797,4,0,3,7,0,0.51,4.01,2.87,14,39,Junior Heavyweight,Main Eventer
+497,Dante Vega,AAA,2000,25,759,3,1,1,5,0,0.36,4.99,0.06,21,54,Women's,Enhancement
+498,Yumi Grimes,ROH,2018,7,607,0,3,3,6,0,0.77,2.09,2.76,11,36,Junior Heavyweight,Main Eventer
+499,Alex Grimes,Indie,2020,5,404,2,0,2,4,0,0.38,4.74,1.9,25,24,Cruiserweight,Upper Midcard
+500,Dante Knight,Indie,2010,15,66,4,2,0,6,0,0.44,3.13,1.28,5,44,Openweight,Upper Midcard
