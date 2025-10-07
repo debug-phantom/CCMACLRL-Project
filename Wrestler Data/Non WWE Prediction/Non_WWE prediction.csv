@@ -1,0 +1,251 @@
+wrestler_id,wrestler_name,brand,debut_year,years_active,total_matches,world_title_reigns,secondary_title_reigns,tag_title_reigns,total_title_reigns,current_champion,avg_matches_per_month,career_win_percentage,social_media_followers_millions,main_evented_ppv,age,weight_class,popularity_tier
+,,,,,,,,,,,,,,,,,Jobber
+1,MJF,AEW,2015,8,450,2,0,0,2,0,3.8,0.72,1.8,18,29,Heavyweight,Main Eventer
+2,Kenny Omega,AEW,2000,25,1200,4,2,3,9,0,2.9,0.68,2.5,32,41,Heavyweight,Main Eventer
+3,Bryan Danielson,AEW,1999,25,1400,5,3,2,10,0,3.2,0.71,3.2,45,43,Heavyweight,Main Eventer
+4,Jon Moxley,AEW,2004,21,980,3,1,0,4,0,3.5,0.66,2.1,28,39,Heavyweight,Main Eventer
+5,Chris Jericho,AEW,1990,35,2100,9,6,4,19,0,2.1,0.64,4.5,52,54,Heavyweight,Main Eventer
+6,Adam Cole,AEW,2008,17,750,3,2,1,6,0,3.4,0.69,1.6,22,35,Heavyweight,Main Eventer
+7,Hangman Page,AEW,2011,14,620,1,0,1,2,0,3.6,0.61,0.9,15,33,Heavyweight,Main Eventer
+8,Swerve Strickland,AEW,2014,11,480,1,1,0,2,1,3.7,0.68,0.7,12,34,Heavyweight,Main Eventer
+9,Will Ospreay,AEW,2012,13,890,3,2,1,6,0,4.2,0.74,1.3,24,31,Heavyweight,Main Eventer
+10,Kazuchika Okada,AEW,2004,21,950,7,1,0,8,0,3.1,0.76,1.1,38,37,Heavyweight,Main Eventer
+11,Mercedes Mone,AEW,2010,15,620,4,2,1,7,1,3.3,0.73,2.8,19,33,Women's,Main Eventer
+12,Mariah May,AEW,2018,7,310,1,0,0,1,1,3.9,0.67,0.4,8,26,Women's,Main Eventer
+13,Toni Storm,AEW,2011,14,580,2,1,0,3,0,3.5,0.66,0.8,14,29,Women's,Main Eventer
+14,Britt Baker,AEW,2015,10,380,1,0,0,1,0,3.2,0.64,1.2,11,33,Women's,Main Eventer
+15,Jamie Hayter,AEW,2012,13,490,1,0,0,1,0,3.4,0.68,0.6,9,29,Women's,Main Eventer
+16,Orange Cassidy,AEW,2004,21,720,0,1,1,2,0,3.8,0.59,1.1,16,40,Heavyweight,Main Eventer
+17,Darby Allin,AEW,2015,10,420,0,1,0,1,0,4.1,0.62,0.9,13,31,Cruiserweight,Main Eventer
+18,Samoa Joe,AEW,1999,26,1150,2,3,1,6,0,2.8,0.67,1.4,34,45,Heavyweight,Main Eventer
+19,Christian Cage,AEW,1995,30,1380,3,4,3,10,0,2.5,0.65,2.1,41,51,Heavyweight,Main Eventer
+20,Edge,AEW,1992,31,1520,11,5,14,30,0,2.3,0.69,4.8,48,51,Heavyweight,Main Eventer
+21,Ricky Starks,AEW,2011,14,490,0,1,1,2,0,3.5,0.61,0.5,8,35,Heavyweight,Main Eventer
+22,Powerhouse Hobbs,AEW,2014,11,380,0,0,1,1,0,3.6,0.64,0.3,5,36,Heavyweight,Main Eventer
+23,Wardlow,AEW,2014,11,340,0,1,0,1,0,3.4,0.71,0.4,6,36,Heavyweight,Main Eventer
+24,Thunder Rosa,AEW,2007,18,680,1,2,0,3,0,3.1,0.63,0.7,12,38,Women's,Main Eventer
+25,Kris Statlander,AEW,2015,10,360,0,1,0,1,0,3.6,0.66,0.3,7,29,Women's,Main Eventer
+26,Hikaru Shida,AEW,2008,17,720,1,0,0,1,0,3.2,0.68,0.5,11,35,Women's,Main Eventer
+27,Jay White,AEW,2010,15,680,2,1,0,3,0,3.7,0.72,0.8,19,32,Heavyweight,Main Eventer
+28,Claudio Castagnoli,AEW,2000,25,1280,1,3,2,6,0,3.3,0.66,0.9,26,44,Heavyweight,Main Eventer
+29,Wheeler Yuta,AEW,2015,10,410,0,0,1,1,0,3.9,0.58,0.2,4,28,Cruiserweight,Main Eventer
+30,Daniel Garcia,AEW,2016,9,380,0,0,0,0,0,4.0,0.61,0.3,5,26,Heavyweight,Main Eventer
+31,Jack Perry,AEW,2015,10,340,0,1,0,1,1,3.5,0.57,0.6,7,28,Heavyweight,Main Eventer
+33,Tetsuya Naito,NJPW,2004,21,980,4,2,1,7,0,3.4,0.69,1.2,28,42,Heavyweight,Main Eventer
+34,Hiroshi Tanahashi,NJPW,1999,26,1420,8,1,0,9,0,3.1,0.68,1.5,36,48,Heavyweight,Main Eventer
+35,Shinsuke Nakamura,NJPW,2002,23,1180,5,2,1,8,0,3.0,0.72,2.5,32,45,Heavyweight,Main Eventer
+36,Tomohiro Ishii,NJPW,2004,21,1020,0,1,2,3,0,3.6,0.64,0.4,18,49,Heavyweight,Main Eventer
+37,Hirooki Goto,NJPW,2007,18,890,1,1,2,4,0,3.5,0.61,0.3,16,45,Heavyweight,Main Eventer
+38,SANADA,NJPW,2007,18,720,2,1,0,3,1,3.4,0.67,0.6,19,36,Heavyweight,Main Eventer
+39,Shota Umino,NJPW,2016,9,380,0,0,0,0,0,3.8,0.62,0.2,6,27,Heavyweight,Main Eventer
+40,Zack Sabre Jr,NJPW,2004,21,920,2,1,1,4,0,3.7,0.69,0.5,21,37,Heavyweight,Main Eventer
+41,David Finlay,NJPW,2011,14,540,1,0,1,2,0,3.3,0.63,0.2,8,31,Heavyweight,Main Eventer
+42,EVIL,NJPW,2010,15,650,1,1,2,4,0,3.4,0.58,0.3,12,41,Heavyweight,Main Eventer
+43,KENTA,NJPW,2000,25,1150,1,2,1,4,0,3.2,0.66,0.7,24,43,Heavyweight,Main Eventer
+44,Taichi,NJPW,2006,19,780,0,1,2,3,0,3.3,0.59,0.2,13,44,Heavyweight,Main Eventer
+45,Toru Yano,NJPW,2000,25,1080,0,1,6,7,0,3.1,0.52,0.4,15,47,Heavyweight,Main Eventer
+46,El Desperado,NJPW,2006,19,740,0,1,3,4,0,3.5,0.61,0.2,11,41,Cruiserweight,Main Eventer
+47,Hiromu Takahashi,NJPW,2010,15,620,0,4,0,4,0,3.8,0.68,0.6,17,35,Cruiserweight,Main Eventer
+49,Jeff Cobb,NJPW,2009,16,620,0,1,1,2,0,3.4,0.66,0.3,12,42,Heavyweight,Main Eventer
+50,Great-O-Khan,NJPW,2010,15,480,0,0,2,2,0,3.2,0.57,0.1,8,35,Heavyweight,Main Eventer
+51,HENARE,NJPW,2015,10,410,0,0,1,1,0,3.6,0.59,0.1,5,32,Heavyweight,Main Eventer
+52,Yoh,NJPW,2013,12,480,0,0,3,3,0,3.5,0.58,0.1,7,31,Cruiserweight,Main Eventer
+53,Sho,NJPW,2013,12,490,0,0,3,3,0,3.5,0.57,0.1,7,32,Cruiserweight,Main Eventer
+54,Taiji Ishimori,NJPW,2000,25,980,0,3,0,3,0,3.3,0.64,0.2,14,43,Cruiserweight,Main Eventer
+55,Master Wato,NJPW,2016,9,360,0,0,1,1,0,3.7,0.55,0.1,4,30,Cruiserweight,Main Eventer
+56,Robbie Eagles,NJPW,2010,15,580,0,1,1,2,0,3.6,0.62,0.1,9,35,Cruiserweight,Main Eventer
+57,Ryusuke Taguchi,NJPW,2004,21,920,0,1,6,7,0,3.2,0.54,0.2,12,44,Cruiserweight,Main Eventer
+58,Alex Coughlin,NJPW,2017,8,280,0,0,0,0,0,3.4,0.58,0.1,3,28,Heavyweight,Main Eventer
+59,Gabe Kidd,NJPW,2016,9,310,0,0,0,0,0,3.8,0.61,0.1,4,28,Heavyweight,Main Eventer
+60,Callum Newman,NJPW,2018,7,220,0,0,1,1,0,3.5,0.56,0.05,2,25,Cruiserweight,Main Eventer
+61,Kosei Fujita,NJPW,2019,6,190,0,0,0,0,0,3.6,0.54,0.05,1,23,Cruiserweight,Main Eventer
+62,Ryohei Oiwa,NJPW,2020,5,160,0,0,0,0,0,3.4,0.51,0.03,1,24,Heavyweight,Main Eventer
+63,Togi Makabe,NJPW,2001,24,1180,1,1,3,5,0,2.9,0.58,0.3,19,49,Heavyweight,Main Eventer
+64,Yuji Nagata,NJPW,1992,33,1520,3,2,1,6,0,2.5,0.64,0.5,28,56,Heavyweight,Main Eventer
+65,Satoshi Kojima,NJPW,1996,29,1380,2,1,4,7,0,2.7,0.61,0.4,24,54,Heavyweight,Main Eventer
+66,Hiroyoshi Tenzan,NJPW,1995,30,1420,3,1,5,9,0,2.6,0.59,0.3,22,54,Heavyweight,Main Eventer
+67,Josh Alexander,Impact,2005,20,840,2,1,1,4,1,3.5,0.68,0.4,16,37,Heavyweight,Main Eventer
+68,Moose,Impact,2010,15,620,2,0,1,3,0,3.6,0.67,0.5,14,40,Heavyweight,Main Eventer
+69,Steve Maclin,Impact,2013,12,480,1,0,0,1,0,3.7,0.65,0.3,9,37,Heavyweight,Main Eventer
+70,Mike Bailey,Impact,2012,13,560,0,1,0,1,0,4.1,0.69,0.2,11,30,Cruiserweight,Main Eventer
+71,Rich Swann,Impact,2004,21,820,2,1,2,5,0,3.4,0.63,0.4,15,33,Cruiserweight,Main Eventer
+72,Eddie Edwards,Impact,2002,23,1080,3,2,4,9,0,3.3,0.64,0.5,21,41,Heavyweight,Main Eventer
+73,Matt Taven,Impact,2006,19,740,1,1,2,4,0,3.4,0.61,0.2,13,39,Heavyweight,Main Eventer
+74,Mike Bennett,Impact,2006,19,720,0,1,3,4,0,3.3,0.60,0.2,12,39,Heavyweight,Main Eventer
+75,Jonathan Gresham,Impact,2006,19,780,1,1,0,2,0,3.6,0.68,0.2,14,36,Cruiserweight,Main Eventer
+76,Jordynne Grace,Impact,2014,11,460,3,0,1,4,1,3.7,0.71,0.6,13,28,Women's,Main Eventer
+77,Deonna Purrazzo,Impact,2013,12,520,2,1,0,3,0,3.5,0.68,0.7,14,29,Women's,Main Eventer
+78,Mickie James,Impact,2000,25,1180,5,3,2,10,0,2.8,0.66,1.8,32,45,Women's,Main Eventer
+79,Trinity,Impact,2009,16,680,2,1,1,4,0,3.4,0.65,0.9,16,36,Women's,Main Eventer
+80,Gisele Shaw,Impact,2016,9,320,0,1,0,1,0,3.6,0.62,0.1,6,29,Women's,Main Eventer
+81,Masha Slamovich,Impact,2015,10,380,1,0,0,1,0,3.8,0.67,0.2,8,28,Women's,Main Eventer
+82,Tasha Steelz,Impact,2014,11,410,0,1,2,3,0,3.5,0.61,0.1,7,30,Women's,Main Eventer
+83,Savannah Evans,Impact,2015,10,340,0,0,1,1,0,3.4,0.58,0.1,5,32,Women's,Main Eventer
+84,Alisha Edwards,Impact,2014,11,390,0,0,1,1,0,3.3,0.54,0.1,6,33,Women's,Main Eventer
+85,Joe Hendry,Impact,2011,14,520,0,1,0,1,0,3.6,0.63,0.3,9,37,Heavyweight,Main Eventer
+86,PCO,Impact,1987,38,1580,1,2,3,6,0,2.4,0.59,0.4,24,56,Heavyweight,Main Eventer
+87,Frankie Kazarian,Impact,1998,27,1340,0,3,5,8,0,2.9,0.58,0.5,22,47,Heavyweight,Main Eventer
+88,Eric Young,Impact,2000,25,1220,2,2,3,7,0,3.0,0.61,0.6,20,45,Heavyweight,Main Eventer
+89,Brian Myers,Impact,2004,21,920,0,2,2,4,0,3.2,0.57,0.3,16,44,Heavyweight,Main Eventer
+90,Hammerstone,Impact,2013,12,440,1,0,0,1,0,3.5,0.66,0.2,8,35,Heavyweight,Main Eventer
+91,Ace Austin,Impact,2015,10,420,0,1,1,2,0,3.8,0.64,0.2,9,27,Cruiserweight,Main Eventer
+92,Chris Sabin,Impact,2000,25,1280,1,1,5,7,0,3.1,0.62,0.4,19,42,Cruiserweight,Main Eventer
+93,Alex Shelley,Impact,2000,25,1260,1,1,5,7,0,3.0,0.63,0.4,19,41,Cruiserweight,Main Eventer
+94,Trey Miguel,Impact,2015,10,390,0,1,1,2,0,3.7,0.61,0.1,7,29,Cruiserweight,Main Eventer
+95,Zachary Wentz,Impact,2013,12,440,0,0,2,2,0,3.6,0.59,0.1,6,30,Cruiserweight,Main Eventer
+96,Laredo Kid,Impact,2001,24,920,0,2,1,3,0,3.2,0.64,0.2,14,40,Cruiserweight,Main Eventer
+98,Dragon Gate Champion,Dragon Gate,2008,17,680,2,1,0,3,0,3.5,0.67,0.3,12,35,Heavyweight,Main Eventer
+99,Ultimo Dragon,Freelance,1987,38,1680,3,4,2,9,0,2.2,0.65,0.7,28,58,Cruiserweight,Main Eventer
+100,Rey Mysterio Jr,Freelance,1989,36,1820,4,5,3,12,0,2.4,0.68,3.8,42,50,Cruiserweight,Main Eventer
+101,Kalisto,Freelance,2006,19,720,0,2,1,3,0,3.3,0.61,0.5,12,37,Cruiserweight,Main Eventer
+102,Penta El Zero Miedo,AAA,2007,18,840,2,1,2,5,0,3.6,0.66,1.2,18,39,Heavyweight,Main Eventer
+103,Rey Fenix,AAA,2008,17,780,1,1,3,5,0,3.7,0.68,0.9,16,34,Cruiserweight,Main Eventer
+104,Psycho Clown,AAA,2009,16,620,3,0,0,3,1,3.4,0.69,0.8,14,37,Heavyweight,Main Eventer
+105,Dragon Lee,AAA,2008,17,710,1,2,1,4,0,3.6,0.67,0.7,15,29,Cruiserweight,Main Eventer
+106,Dralistico,AAA,2010,15,580,0,1,2,3,0,3.5,0.63,0.3,9,32,Heavyweight,Main Eventer
+107,Hijo del Vikingo,AAA,2015,10,420,1,1,0,2,0,4.0,0.71,0.5,9,25,Cruiserweight,Main Eventer
+109,Bandido,AAA,2010,15,640,1,1,1,3,0,3.7,0.68,0.4,12,34,Cruiserweight,Main Eventer
+110,Flamita,AAA,2008,17,680,0,1,2,3,0,3.6,0.64,0.2,11,33,Cruiserweight,Main Eventer
+111,Pagano,AAA,2011,14,520,0,1,0,1,0,3.4,0.61,0.3,8,38,Heavyweight,Main Eventer
+112,LA Park,AAA,1990,35,1480,4,2,1,7,0,2.6,0.66,0.9,26,58,Heavyweight,Main Eventer
+113,Blue Demon Jr,AAA,1988,37,1380,2,1,0,3,0,2.5,0.63,0.7,24,55,Heavyweight,Main Eventer
+114,Dr Wagner Jr,AAA,1986,39,1520,3,2,1,6,0,2.4,0.65,0.8,28,56,Heavyweight,Main Eventer
+115,El Hijo del Santo,AAA,1982,43,1680,5,1,0,6,0,2.2,0.68,1.1,32,60,Heavyweight,Main Eventer
+116,Taurus,AAA,2012,13,480,0,1,1,2,0,3.5,0.63,0.2,8,31,Heavyweight,Main Eventer
+117,DMT Azul,AAA,2014,11,380,0,0,1,1,0,3.4,0.59,0.1,5,29,Cruiserweight,Main Eventer
+118,Octagon Jr,AAA,2011,14,490,0,1,1,2,0,3.5,0.62,0.3,9,33,Cruiserweight,Main Eventer
+119,Abismo Negro Jr,AAA,2013,12,420,0,0,1,1,0,3.4,0.58,0.1,6,30,Heavyweight,Main Eventer
+120,Taya Valkyrie,AAA,2010,15,580,2,1,1,4,0,3.4,0.68,0.6,13,40,Women's,Main Eventer
+121,Lady Shani,AAA,2007,18,640,1,2,0,3,0,3.3,0.65,0.2,11,36,Women's,Main Eventer
+122,La Hiedra,AAA,2009,16,520,0,1,1,2,0,3.3,0.62,0.1,8,34,Women's,Main Eventer
+123,Faby Apache,AAA,2001,24,880,2,1,0,3,0,3.1,0.66,0.3,15,42,Women's,Main Eventer
+125,Chik Tormenta,AAA,2012,13,460,0,1,1,2,0,3.3,0.61,0.1,7,31,Women's,Main Eventer
+126,Maravilla,AAA,2014,11,380,0,0,1,1,0,3.4,0.59,0.08,5,28,Women's,Main Eventer
+127,Ultimo Maldito,AAA,2015,10,340,0,0,0,0,0,3.5,0.56,0.05,3,27,Heavyweight,Main Eventer
+128,Villano IV,AAA,1982,43,1580,1,2,2,5,0,2.3,0.61,0.4,26,63,Heavyweight,Main Eventer
+129,Villano V,AAA,1984,41,1520,1,1,3,5,0,2.4,0.60,0.3,24,59,Heavyweight,Main Eventer
+130,Black Taurus,AAA,2012,13,480,0,1,1,2,0,3.5,0.63,0.2,8,31,Heavyweight,Main Eventer
+131,Místico,CMLL,2006,19,780,3,1,0,4,1,3.5,0.69,0.6,16,35,Cruiserweight,Main Eventer
+132,Volador Jr,CMLL,1997,28,1280,2,2,1,5,0,3.0,0.66,0.5,22,46,Cruiserweight,Main Eventer
+133,Atlantis,CMLL,1983,42,1720,4,1,1,6,0,2.3,0.67,0.8,28,61,Heavyweight,Main Eventer
+134,Ultimo Guerrero,CMLL,1996,29,1340,3,2,2,7,0,2.8,0.65,0.5,24,52,Heavyweight,Main Eventer
+135,Negro Casas,CMLL,1979,46,1880,2,3,3,8,0,2.1,0.64,0.7,32,64,Heavyweight,Main Eventer
+136,Blue Panther,CMLL,1982,43,1680,2,2,2,6,0,2.3,0.65,0.5,28,62,Heavyweight,Main Eventer
+137,Soberano Jr,CMLL,2012,13,520,1,1,0,2,0,3.6,0.67,0.3,10,29,Cruiserweight,Main Eventer
+138,Titan,CMLL,2009,16,620,0,2,1,3,0,3.4,0.65,0.2,11,33,Cruiserweight,Main Eventer
+139,Templario,CMLL,2011,14,540,0,1,1,2,0,3.5,0.64,0.2,9,31,Cruiserweight,Main Eventer
+140,Euforia,CMLL,2000,25,1080,1,2,3,6,0,3.1,0.63,0.3,18,48,Heavyweight,Main Eventer
+141,Gran Guerrero,CMLL,2008,17,680,0,1,2,3,0,3.4,0.62,0.2,12,36,Heavyweight,Main Eventer
+142,Terrible,CMLL,2001,24,940,0,2,2,4,0,3.2,0.61,0.2,16,46,Heavyweight,Main Eventer
+143,Hechicero,CMLL,2011,14,560,0,1,0,1,0,3.6,0.66,0.2,10,33,Heavyweight,Main Eventer
+144,Averno,CMLL,1996,29,1220,1,2,2,5,0,2.9,0.63,0.3,20,47,Heavyweight,Main Eventer
+145,Mephisto,CMLL,1998,27,1140,0,2,3,5,0,3.0,0.62,0.2,19,46,Heavyweight,Main Eventer
+146,Ephesto,CMLL,1999,26,1080,0,1,2,3,0,3.0,0.60,0.2,18,45,Heavyweight,Main Eventer
+147,Cuatrero,CMLL,2013,12,480,0,0,2,2,0,3.5,0.60,0.1,8,30,Heavyweight,Main Eventer
+148,Forastero,CMLL,2013,12,470,0,0,2,2,0,3.5,0.59,0.1,7,29,Heavyweight,Main Eventer
+149,Sanson,CMLL,2013,12,460,0,0,2,2,0,3.4,0.58,0.1,7,28,Heavyweight,Main Eventer
+150,Barbaro Cavernario,CMLL,2010,15,600,0,1,1,2,0,3.5,0.64,0.2,11,34,Cruiserweight,Main Eventer
+151,Stuka Jr,CMLL,2005,20,820,0,1,1,2,0,3.3,0.61,0.2,14,40,Cruiserweight,Main Eventer
+152,Mistico,CMLL,2006,19,780,3,1,0,4,1,3.5,0.69,0.6,16,35,Cruiserweight,Main Eventer
+153,Dragon Rojo Jr,CMLL,2003,22,920,0,2,2,4,0,3.3,0.62,0.2,16,43,Heavyweight,Main Eventer
+154,Niebla Roja,CMLL,2010,15,580,0,1,1,2,0,3.4,0.63,0.2,10,33,Heavyweight,Main Eventer
+155,Marcela,CMLL,2000,25,980,2,1,0,3,0,3.1,0.67,0.3,17,44,Women's,Main Eventer
+156,Dalys,CMLL,2009,16,620,1,1,0,2,0,3.4,0.65,0.2,11,34,Women's,Main Eventer
+157,La Comandante,CMLL,2011,14,540,0,1,1,2,0,3.3,0.62,0.1,9,36,Women's,Main Eventer
+158,Zeuxis,CMLL,2010,15,580,1,0,0,1,0,3.4,0.64,0.2,10,33,Women's,Main Eventer
+159,Kaho Kobayashi,Stardom,2014,11,480,2,1,1,4,0,3.7,0.69,0.3,10,29,Women's,Main Eventer
+160,Mayu Iwatani,Stardom,2011,14,680,5,0,2,7,1,3.9,0.72,0.5,15,31,Women's,Main Eventer
+161,Tam Nakano,Stardom,2013,12,560,2,1,1,4,0,3.8,0.68,0.4,12,30,Women's,Main Eventer
+162,Giulia,Stardom,2017,8,420,3,0,1,4,0,4.1,0.73,0.6,11,30,Women's,Main Eventer
+163,Syuri,Stardom,2011,14,620,2,1,0,3,0,3.7,0.70,0.3,13,34,Women's,Main Eventer
+164,Utami Hayashishita,Stardom,2019,6,340,2,0,1,3,0,4.3,0.74,0.4,9,27,Women's,Main Eventer
+165,Momo Watanabe,Stardom,2016,9,480,1,1,1,3,0,3.9,0.68,0.3,10,24,Women's,Main Eventer
+166,Starlight Kid,Stardom,2017,8,410,0,1,2,3,0,3.8,0.65,0.2,8,26,Women's,Main Eventer
+167,AZM,Stardom,2015,10,520,0,2,1,3,0,3.9,0.67,0.2,10,23,Women's,Main Eventer
+168,Natsupoi,Stardom,2016,9,460,0,1,1,2,0,3.7,0.64,0.2,9,27,Women's,Main Eventer
+169,Saya Kamitani,Stardom,2019,6,330,1,0,1,2,0,4.0,0.69,0.3,8,26,Women's,Main Eventer
+170,Hazuki,Stardom,2013,12,540,1,0,2,3,0,3.6,0.66,0.2,11,30,Women's,Main Eventer
+171,Koguma,Stardom,2018,7,360,0,0,1,1,0,3.7,0.61,0.1,6,24,Women's,Main Eventer
+172,Mina Shirakawa,Stardom,2015,10,480,0,1,1,2,0,3.8,0.67,0.4,10,26,Women's,Main Eventer
+173,Hanan,Stardom,2016,9,420,0,0,1,1,0,3.6,0.62,0.1,7,20,Women's,Main Eventer
+174,Ruaka,Stardom,2018,7,320,0,0,0,0,0,3.5,0.55,0.08,4,25,Women's,Main Eventer
+175,Saki Kashima,Stardom,2008,17,720,0,1,2,3,0,3.4,0.63,0.2,12,35,Women's,Main Eventer
+176,Mirai,Stardom,2019,6,310,0,0,1,1,0,3.7,0.60,0.1,5,23,Women's,Main Eventer
+177,Lady C,Stardom,2016,9,380,0,0,1,1,0,3.5,0.58,0.1,6,29,Women's,Main Eventer
+178,Thekla,Stardom,2015,10,440,0,1,1,2,0,3.6,0.64,0.2,8,27,Women's,Main Eventer
+179,Mei Suruga,ChocoPro,2015,10,520,1,1,0,2,0,3.9,0.66,0.2,10,26,Women's,Main Eventer
+180,Emi Sakura,ChocoPro,1995,30,1280,3,2,1,6,0,2.9,0.65,0.3,21,48,Women's,Main Eventer
+181,Baliyan Akki,DDT,2013,12,540,0,1,2,3,0,3.6,0.63,0.1,9,31,Cruiserweight,Main Eventer
+182,Konosuke Takeshita,DDT,2013,12,580,2,1,1,4,0,3.8,0.69,0.4,12,29,Heavyweight,Main Eventer
+183,Tetsuya Endo,DDT,2008,17,720,3,1,0,4,0,3.6,0.68,0.3,14,35,Heavyweight,Main Eventer
+184,Yukio Sakaguchi,DDT,2006,19,780,1,2,1,4,0,3.4,0.64,0.2,13,38,Heavyweight,Main Eventer
+185,Kazusada Higuchi,DDT,2009,16,640,0,1,2,3,0,3.5,0.62,0.1,11,34,Heavyweight,Main Eventer
+186,Yuki Ueno,DDT,2014,11,480,1,1,0,2,0,3.7,0.66,0.2,9,28,Cruiserweight,Main Eventer
+187,Shinya Aoki,DDT,2014,11,380,0,1,0,1,0,3.3,0.61,0.3,7,41,Heavyweight,Main Eventer
+188,MAO,DDT,2013,12,520,0,1,1,2,0,3.7,0.63,0.1,9,29,Cruiserweight,Main Eventer
+189,Shunma Katsumata,DDT,2016,9,420,0,0,1,1,0,3.6,0.60,0.1,7,26,Cruiserweight,Main Eventer
+190,Danshoku Dino,DDT,1997,28,1140,0,2,2,4,0,3.0,0.58,0.2,18,47,Heavyweight,Main Eventer
+191,Jun Akiyama,DDT,1992,33,1480,4,3,2,9,0,2.7,0.66,0.5,26,55,Heavyweight,Main Eventer
+192,Daisuke Sasaki,DDT,2005,20,840,1,2,1,4,0,3.4,0.63,0.2,14,40,Heavyweight,Main Eventer
+193,Soma Takao,DDT,2015,10,440,0,0,1,1,0,3.6,0.59,0.1,7,27,Heavyweight,Main Eventer
+194,Minoru Fujita,DDT,2004,21,880,0,1,2,3,0,3.3,0.61,0.1,15,42,Cruiserweight,Main Eventer
+196,Speedball Bailey,PWG,2012,13,560,0,1,0,1,0,4.1,0.69,0.2,11,30,Cruiserweight,Main Eventer
+198,Dalton Castle,ROH,2009,16,620,1,0,1,2,0,3.5,0.64,0.2,12,38,Heavyweight,Main Eventer
+199,Jay Lethal,ROH,2000,25,1240,3,4,2,9,0,3.1,0.67,0.8,24,40,Heavyweight,Main Eventer
+200,Christopher Daniels,ROH,1993,32,1580,2,3,4,9,0,2.8,0.65,0.9,28,54,Heavyweight,Main Eventer
+204,Roderick Strong,ROH,2000,25,1180,2,2,1,5,0,3.2,0.66,0.6,22,41,Heavyweight,Main Eventer
+206,Kyle O'Reilly,ROH,2005,20,880,1,1,3,5,0,3.4,0.65,0.4,16,37,Heavyweight,Main Eventer
+207,Bobby Fish,ROH,2002,23,980,0,1,3,4,0,3.3,0.63,0.3,18,48,Heavyweight,Main Eventer
+208,The Briscoes Mark,ROH,2002,23,1120,0,0,10,10,0,3.2,0.64,0.3,20,40,Heavyweight,Main Eventer
+209,The Briscoes Jay,ROH,2001,24,1140,0,0,10,10,0,3.2,0.65,0.3,21,40,Heavyweight,Main Eventer
+210,Silas Young,ROH,2004,21,820,0,1,1,2,0,3.3,0.59,0.1,14,46,Heavyweight,Main Eventer
+211,Shane Taylor,ROH,2008,17,640,0,1,1,2,0,3.4,0.62,0.1,11,39,Heavyweight,Main Eventer
+213,Flip Gordon,ROH,2012,13,480,0,0,0,0,0,3.6,0.61,0.2,9,30,Cruiserweight,Main Eventer
+215,Rush,ROH,2007,18,740,1,1,0,2,0,3.6,0.66,0.5,14,36,Heavyweight,Main Eventer
+216,Marty Scurll,ROH,2004,21,820,0,1,2,3,0,3.3,0.64,0.5,15,36,Cruiserweight,Main Eventer
+217,Colt Cabana,ROH,1999,26,1220,0,2,2,4,0,3.0,0.60,0.4,20,44,Heavyweight,Main Eventer
+219,AJ Styles,ROH,1998,27,1480,2,1,1,4,0,3.1,0.68,2.3,28,47,Heavyweight,Main Eventer
+220,CM Punk,ROH,1999,24,1020,3,1,0,4,0,2.9,0.67,3.8,26,46,Heavyweight,Main Eventer
+222,Nigel McGuinness,ROH,2000,25,980,2,1,0,3,0,3.1,0.66,0.3,18,48,Heavyweight,Main Eventer
+223,Tyler Black,ROH,2005,20,880,1,0,1,2,0,3.4,0.64,0.2,16,38,Heavyweight,Main Eventer
+225,Kevin Steen,ROH,2002,23,940,2,1,1,4,0,3.3,0.65,0.4,18,41,Heavyweight,Main Eventer
+227,Davey Richards,ROH,2004,21,880,2,1,3,6,0,3.4,0.66,0.3,17,41,Heavyweight,Main Eventer
+228,Austin Aries,ROH,1999,26,1120,2,2,1,5,0,3.2,0.67,0.6,21,47,Cruiserweight,Main Eventer
+229,Low Ki,ROH,1998,27,1040,1,1,0,2,0,3.2,0.68,0.3,19,45,Cruiserweight,Main Eventer
+230,Homicide,ROH,1997,28,1180,1,1,2,4,0,3.1,0.63,0.2,21,48,Cruiserweight,Main Eventer
+231,Jay Briscoe,ROH,2001,22,1140,0,0,10,10,0,3.2,0.65,0.3,21,39,Heavyweight,Main Eventer
+232,Mark Briscoe,ROH,2002,23,1120,0,0,10,10,0,3.2,0.64,0.3,20,40,Heavyweight,Main Eventer
+233,Michael Elgin,ROH,2005,20,820,1,1,1,3,0,3.4,0.65,0.2,15,38,Heavyweight,Main Eventer
+239,Kota Ibushi,NJPW,2004,21,880,2,1,1,4,0,3.5,0.70,0.9,20,42,Heavyweight,Main Eventer
+240,Shingo Takagi,NJPW,2004,21,920,2,1,0,3,0,3.6,0.69,0.5,18,41,Heavyweight,Main Eventer
+245,Juice Robinson,NJPW,2008,17,680,1,1,0,2,0,3.5,0.63,0.3,12,36,Heavyweight,Main Eventer
+250,BUSHI,NJPW,2012,13,540,0,0,2,2,0,3.5,0.57,0.1,9,40,Cruiserweight,Main Eventer
+254,Minoru Suzuki,NJPW,1988,37,1680,1,2,1,4,0,2.5,0.65,0.8,30,56,Heavyweight,Main Eventer
+255,Lance Archer,NJPW,1995,30,1380,0,2,2,4,0,2.8,0.63,0.4,25,57,Heavyweight,Main Eventer
+256,Bad Luck Fale,NJPW,2010,15,580,0,0,1,1,0,3.4,0.59,0.2,10,43,Heavyweight,Main Eventer
+257,Chase Owens,NJPW,2008,17,620,0,1,1,2,0,3.4,0.58,0.1,11,34,Heavyweight,Main Eventer
+258,Yujiro Takahashi,NJPW,2002,23,920,0,1,1,2,0,3.2,0.56,0.1,16,44,Heavyweight,Main Eventer
+261,Aaron Henare,NJPW,2015,10,410,0,0,1,1,0,3.6,0.59,0.1,5,32,Heavyweight,Main Eventer
+262,Tama Tonga,NJPW,2008,17,740,0,0,3,3,0,3.4,0.58,0.2,12,41,Heavyweight,Main Eventer
+263,Tanga Loa,NJPW,2012,13,540,0,0,3,3,0,3.5,0.57,0.1,9,40,Heavyweight,Main Eventer
+264,El Phantasmo,NJPW,2009,16,620,0,1,2,3,0,3.5,0.63,0.2,10,35,Cruiserweight,Main Eventer
+267,Francesco Akira,NJPW,2016,9,380,0,1,0,1,0,3.7,0.64,0.1,7,27,Cruiserweight,Main Eventer
+268,TJP,NJPW,2000,25,1080,0,2,1,3,0,3.2,0.62,0.3,18,40,Cruiserweight,Main Eventer
+269,Clark Connors,NJPW,2017,8,340,0,0,1,1,0,3.6,0.59,0.1,6,28,Heavyweight,Main Eventer
+270,Karl Fredericks,NJPW,2017,8,320,0,0,1,1,0,3.5,0.58,0.08,5,30,Heavyweight,Main Eventer
+271,Ren Narita,NJPW,2016,9,380,0,0,0,0,0,3.6,0.60,0.1,6,27,Heavyweight,Main Eventer
+272,Yota Tsuji,NJPW,2017,8,340,0,0,1,1,0,3.6,0.61,0.1,6,27,Heavyweight,Main Eventer
+273,Yuya Uemura,NJPW,2017,8,330,0,0,0,0,0,3.5,0.59,0.08,5,28,Heavyweight,Main Eventer
+277,Oskar Leube,NJPW,2019,6,210,0,0,0,0,0,3.5,0.55,0.05,2,25,Heavyweight,Main Eventer
+281,Lio Rush,AEW,2014,11,460,0,1,0,1,0,3.7,0.65,0.5,9,30,Cruiserweight,Main Eventer
+282,Dante Martin,AEW,2017,8,340,0,0,1,1,0,3.9,0.62,0.2,7,23,Cruiserweight,Main Eventer
+283,Darius Martin,AEW,2017,8,330,0,0,1,1,0,3.8,0.61,0.2,6,25,Cruiserweight,Main Eventer
+284,Andrade El Idolo,AEW,2007,18,780,1,2,0,3,0,3.5,0.68,0.9,16,35,Heavyweight,Main Eventer
+285,Malakai Black,AEW,2010,15,620,0,1,0,1,0,3.6,0.67,0.7,13,39,Heavyweight,Main Eventer
+286,Brody King,AEW,2008,17,640,0,0,1,1,0,3.5,0.63,0.2,11,38,Heavyweight,Main Eventer
+287,Buddy Matthews,AEW,2007,18,680,0,1,1,2,0,3.5,0.64,0.3,12,37,Heavyweight,Main Eventer
+290,PAC,AEW,2001,24,1080,1,2,1,4,0,3.3,0.70,0.6,20,38,Cruiserweight,Main Eventer
+291,Eddie Kingston,AEW,2002,23,920,0,1,0,1,0,3.4,0.62,0.5,17,43,Heavyweight,Main Eventer
+292,Santana,AEW,2005,20,780,0,0,2,2,0,3.4,0.61,0.2,14,36,Heavyweight,Main Eventer
+293,Ortiz,AEW,2006,19,760,0,0,2,2,0,3.4,0.60,0.2,13,37,Heavyweight,Main Eventer
+294,FTR Dax Harwood,AEW,2006,19,820,0,0,4,4,1,3.5,0.66,0.4,15,40,Heavyweight,Main Eventer
