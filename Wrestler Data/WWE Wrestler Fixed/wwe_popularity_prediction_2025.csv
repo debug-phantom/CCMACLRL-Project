@@ -1,0 +1,183 @@
+wrestler_id,wrestler_name,brand,debut_year,years_active,total_matches,world_title_reigns,secondary_title_reigns,tag_title_reigns,total_title_reigns,current_champion,avg_matches_per_month,career_win_percentage,social_media_followers_millions,main_evented_ppv,age,weight_class,popularity_tier
+1,Cody Rhodes,SmackDown,2007,18,980,4,2,0,6,1,3.2,0.69,4,20,39,Heavyweight,Main Eventer
+2,Seth Rollins,RAW,2012,13,1180,5,2,2,9,1,4.3,0.65,3.6,21,39,Heavyweight,Main Eventer
+3,Roman Reigns,SmackDown,2012,13,1025,6,1,1,8,0,3.3,0.66,4.9,33,40,Heavyweight,Main Eventer
+4,Rhea Ripley,RAW,2021,4,290,3,1,0,4,0,4.6,0.73,3,13,29,Women's,Main Eventer
+5,Becky Lynch,RAW,2013,12,640,5,3,0,8,1,3.7,0.68,4.3,16,38,Women's,Main Eventer
+6,Charlotte Flair,SmackDown,2013,12,570,15,2,1,18,1,3.6,0.71,3.3,26,39,Women's,Main Eventer
+7,LA Knight,RAW,2022,3,195,1,0,0,1,0,4.1,0.66,2,6,42,Heavyweight,Main Eventer
+8,Gunther,RAW,2019,6,340,1,1,0,2,0,4.2,0.79,1.4,7,38,Heavyweight,Main Eventer
+9,Randy Orton,SmackDown,2002,23,1870,14,4,2,20,0,3.9,0.63,5.4,46,45,Heavyweight,Main Eventer
+10,The Rock,Executive,1996,25,350,10,2,0,12,0,1.5,0.75,18,35,52,Heavyweight,Main Eventer
+11,John Cena,SmackDown,2002,21,1250,16,5,2,23,0,3.2,0.72,15,50,48,Heavyweight,Main Eventer
+12,CM Punk,RAW,2005,17,680,3,1,0,4,0,3.1,0.67,3.8,15,46,Heavyweight,Main Eventer
+13,Brock Lesnar,SmackDown,2002,20,280,10,1,0,11,0,2.1,0.78,4.2,25,47,Heavyweight,Main Eventer
+14,Drew McIntyre,SmackDown,2007,16,980,3,1,1,5,0,3.3,0.59,2.6,12,40,Heavyweight,Main Eventer
+15,AJ Styles,RAW,2016,9,810,2,1,1,4,0,3.8,0.6,2.3,13,47,Heavyweight,Mid-Carder
+16,Kevin Owens,RAW,2014,11,920,1,3,1,5,0,4,0.57,2.1,9,41,Heavyweight,Mid-Carder
+17,Sami Zayn,SmackDown,2013,12,750,0,3,1,4,1,3.7,0.55,1.8,5,40,Heavyweight,Mid-Carder
+18,Jey Uso,RAW,2010,15,950,0,1,8,9,0,3.9,0.56,1.5,9,39,Heavyweight,Main Eventer
+19,Jimmy Uso,SmackDown,2010,15,930,0,0,8,8,0,3.8,0.54,1.2,7,39,Heavyweight,Mid-Carder
+20,Logan Paul,SmackDown,2022,3,50,1,0,0,1,0,1.9,0.76,26,4,30,Heavyweight,Mid-Carder
+21,Damian Priest,SmackDown,2018,7,400,1,0,1,2,0,3.7,0.53,0.9,3,42,Heavyweight,Mid-Carder
+22,Finn Balor,RAW,2014,11,720,1,1,2,4,1,3.6,0.58,2,6,43,Tag Team,Mid-Carder
+23,JD McDonagh,RAW,2022,3,120,0,0,1,1,1,3.5,0.48,0.4,0,29,Tag Team,Mid-Carder
+24,Dominik Mysterio,RAW,2020,5,220,0,1,0,1,1,3.8,0.45,0.7,1,27,Cruiserweight,Mid-Carder
+25,IYO SKY,SmackDown,2022,3,200,1,1,0,2,0,4.3,0.64,1,4,33,Women's,Mid-Carder
+26,Tiffany Stratton,SmackDown,2023,2,80,1,0,0,1,1,4.5,0.7,0.8,1,25,Women's,Mid-Carder
+27,Bayley,SmackDown,2012,13,550,1,2,0,3,0,3.5,0.6,2.2,8,35,Women's,Mid-Carder
+28,Jade Cargill,SmackDown,2023,2,45,0,0,0,0,0,2.8,0.85,1.5,1,31,Women's,Mid-Carder
+29,Liv Morgan,RAW,2017,8,370,1,1,0,2,0,4,0.5,1.7,3,31,Women's,Mid-Carder
+30,Naomi,SmackDown,2009,16,480,0,2,0,2,0,3.1,0.52,1.8,4,36,Women's,Mid-Carder
+31,Nia Jax,RAW,2014,9,220,1,0,0,1,0,2.5,0.55,1.1,3,40,Women's,Mid-Carder
+32,Asuka,RAW,2015,10,350,1,2,0,3,0,3.4,0.61,1.3,5,43,Women's,Mid-Carder
+33,Solo Sikoa,SmackDown,2021,4,150,0,0,0,0,0,3.6,0.65,0.6,1,31,Heavyweight,Mid-Carder
+34,Bron Breakker,SmackDown,2022,3,90,0,0,0,0,0,4,0.78,0.5,0,26,Heavyweight,Mid-Carder
+35,Kofi Kingston,SmackDown,2006,19,1300,1,4,8,13,0,3.9,0.53,1.8,10,43,Tag Team,Mid-Carder
+36,The Miz,RAW,2006,19,1100,2,4,2,8,0,3.5,0.49,3,12,44,Heavyweight,Mid-Carder
+37,Shinsuke Nakamura,SmackDown,2016,9,580,0,2,0,2,0,3.6,0.54,2.5,5,45,Heavyweight,Mid-Carder
+38,Sheamus,RAW,2009,16,950,1,3,2,6,0,3.4,0.57,2.1,15,46,Heavyweight,Mid-Carder
+39,Montez Ford,RAW,2019,6,370,0,0,3,3,0,4,0.61,1.4,2,36,Tag Team,Mid-Carder
+40,Chad Gable,RAW,2013,12,680,0,0,1,1,0,3.8,0.52,0.7,1,38,Heavyweight,Mid-Carder
+41,Austin Theory,SmackDown,2019,6,350,0,2,0,2,0,3.9,0.49,1,2,28,Heavyweight,Mid-Carder
+42,Tama Tonga,SmackDown,2024,1,30,0,0,0,0,0,3.5,0.6,0.3,0,42,Heavyweight,Mid-Carder
+43,Tonga Loa,SmackDown,2024,1,25,0,0,0,0,0,3.2,0.55,0.2,0,40,Heavyweight,Mid-Carder
+44,Jacob Fatu,SmackDown,2024,1,20,0,0,0,0,0,3.8,0.7,0.4,0,32,Heavyweight,Mid-Carder
+45,Joe Gacy,SmackDown,2020,5,130,0,0,1,1,1,3,0.46,0.3,0,33,Tag Team,Jobber
+46,Dexter Lumis,SmackDown,2020,5,110,0,0,1,1,1,2.8,0.44,0.2,0,39,Tag Team,Jobber
+47,Xavier Woods,SmackDown,2010,15,820,0,1,6,7,0,3.3,0.52,1.3,2,39,Tag Team,Jobber
+48,Bronson Reed,SmackDown,2020,5,180,0,0,0,0,0,3.4,0.51,0.5,0,36,Heavyweight,Mid-Carder
+49,Otis,RAW,2015,10,420,0,0,1,1,0,3.2,0.48,0.6,0,33,Heavyweight,Jobber
+50,R-Truth,RAW,2000,25,950,0,1,2,3,0,2.8,0.4,1.1,1,52,Cruiserweight,Jobber
+51,Tommaso Ciampa,RAW,2018,7,320,0,0,0,0,0,3.5,0.55,0.4,0,39,Heavyweight,Jobber
+52,Dragon Lee,RAW,2023,2,70,0,0,0,0,0,3.6,0.53,0.3,0,29,Cruiserweight,Jobber
+53,El Grande Americano,RAW,2024,1,15,0,0,0,0,0,2.5,0.45,0.1,0,28,Cruiserweight,Jobber
+54,JC Mateo,SmackDown,2024,1,12,0,0,0,0,0,2.3,0.42,0.1,0,26,Heavyweight,Jobber
+55,Trick Williams,NXT,2023,2,65,0,0,0,0,0,3.7,0.68,0.4,0,25,Heavyweight,Jobber
+56,Nikki Cross,SmackDown,2016,9,300,0,0,0,0,0,3.1,0.47,0.5,0,35,Women's,Jobber
+57,Nikki Bella,RAW,2007,16,350,0,0,0,0,0,2.5,0.52,3.5,3,41,Women's,Jobber
+58,Alexa Bliss,SmackDown,2013,12,380,0,2,1,3,1,2.9,0.54,2,4,33,Women's,Jobber
+59,Stephanie Vaquer,RAW,2024,1,20,1,0,0,1,1,3,0.65,0.2,0,30,Women's,Jobber
+60,Giulia,SmackDown,2024,1,15,0,1,0,1,1,2.8,0.7,0.3,0,29,Women's,Jobber
+61,Aleister Black,SmackDown,2016,7,280,0,0,0,0,0,3.3,0.58,0.8,2,39,Heavyweight,Mid-Carder
+62,AJ Lee,RAW,2008,14,320,0,1,0,1,0,2.8,0.6,2.5,2,38,Women's,Main Eventer
+63,Pat McAfee,SmackDown,2022,3,25,0,0,0,0,0,1.2,0.75,2,1,37,Heavyweight,Jobber
+64,Paul Heyman,Manager,1987,38,50,0,0,0,0,0,0.3,0.3,1.5,15,59,Manager,Jobber
+65,Triple H,Executive,1995,27,850,14,5,2,21,0,2.8,0.65,3,45,55,Heavyweight,Main Eventer
+66,Uncle Howdy,SmackDown,2024,1,8,0,0,0,0,0,1.5,0.4,0.1,0,35,Heavyweight,Mid-Carder
+67,Penta,RAW,2019,4,120,0,0,0,0,0,2.9,0.52,0.6,0,38,Heavyweight,Mid-Carder
+68,Rey Fenix,SmackDown,2019,4,110,0,0,0,0,0,2.8,0.5,0.5,0,33,Cruiserweight,Mid-Carder
+69,Rusev,RAW,2010,12,380,0,1,0,1,0,3,0.55,1.2,3,40,Heavyweight,Jobber
+70,Omos,RAW,2020,5,120,0,0,0,0,0,2.5,0.65,0.7,0,30,Heavyweight,Jobber
+71,B Fab,SmackDown,2019,6,8,0,0,0,0,0,2.5,0.52,3.4,0,34,Women's,Mid-Carder
+72,Adrianna Rizzo,NXT,2023,2,,,,,,,,,,,45,Women's,Mid-Carder
+73,Bravo Americano,RAW,2025,1,,0,0,0,0,0,1.2,0.5,0.3,0,28,Heavyweight,Jobber
+74,Zoey Stark,RAW,2021,4,,,,,,,,,,,31,Women's,Mid-Carder
+75,Roxanne Perez,RAW,2022,3,,,,,,,,,,,23,Women's,Mid-Carder
+76,Rayo Americano,RAW,2025,1,,,,,,,,,,,31,Heavyweight,Jobber
+77,Raquel  Rodriguez,RAW,2013,12,,,,,,,,,,,34,Women's,Mid-Carder
+78,Natalya,RAW,2000,25,,,,,,,,,,,43,Women's,Jobber
+79,Rey Mysterio,RAW,2002,23,,,,,,,,,,,50,Heavyweight,Mid-Carder
+80,Maxxine Dupri,RAW,2022,3,,,,,,,,,,,28,Women's,Jobber
+81,Lyra Valkyria,RAW,2024,1,,,,,,,,,,,28,Women's,Main Eventer
+82,Kairi Sane,RAW,2019,6,,,,,,,,,,,37,Women's,Main Eventer
+83,Julius Creed,RAW,2021,4,,,,,,,,,,,31,Heavyweight,Mid-Carder
+84,Joaquin Wilde,RAW,2004,21,,,,,,,,,,,39,HeavyWeight,Jobber
+85,Ilja Dragonov,RAW,2012,13,,,,,,,,,,,31,HeavyWeight,Mid-Carder
+86,Ivy Nile,RAW,2020,5,,,,,,,,,,,33,Women's,Jobber
+87,Ivar,RAW,2001,24,,,,,,,,,,,41,Heavyweight,Mid-Carder
+88,Grayson Waller,RAW,2017,8,,,,,,,,,,,35,Heavyweight,Jobber
+89,Erik,RAW,2003,22,,,,,,,,,,,41,Heavyweight,Mid-Carder
+90,Cruz Del Toro,RAW,2006,19,,,,,,,,,,,33,Heavyweight,Mid-Carder
+91,Bianca Blair,SmackDown,2017,9,,,,,,,,,,,36,Women's,Main Eventer
+92,Brutus  Creed,RAW,2021,4,,,,,,,,,,,29,Heavyweight,Mid-Carder
+93,Akira Tozawa,RAW,2005,20,,,,,,,,,,,40,Heavyweight,Mid-Carder
+94,Alba Fyre,SmackDown,2023,2,,,,,,,,,,,33,Women's,Mid-Carder
+95,Alex Shelley,SmackDown,2002,23,,,,,,,,,,,42,Tag Team,Mid-Carder
+96,Angel Garza,SmackDown,2008,17,,,,,,,,,,,33,Heavyweight,Mid-Carder
+97,Angelo Dawkins,SmackDown,2012,13,,,,,,,,,,,35,Heavyweight,Main Eventer
+98,Axiom,SmackDown,2012,13,,,,,,,,,,,28,Heavyweight,Mid-Carder
+99,Berto,SmackDown,2012,13,,,,,,,,,,,29,Heavyweight,Mid-Carder
+100,Malik Blade,NXT,2021,4,,,,,,,,,,,27,Heavyweight,Mid-Carder
+101,Candice Lerae,SmackDown,2002,23,,,,,,,,,,,40,Women's,Mid-Carder
+102,Carmelo Hayes,SmackDown,2014,11,,,,,,,,,,,31,Heavyweight,Mid-Carder
+103,Chelsea Green,SmackDown,2014,11,,,,,,,,,,,34,Women's,Mid-Carder
+104,Chris Sabin,SmackDown,2000,25,,,,,,,,,,,43,Heavyweight,Main Eventer
+105,Corey Graves,SmackDown,2014,11,,,,,,,,,,,41,Heavyweight,Mid-Carder
+106,Erick Rowan,SmackDown,2003,22,,,,,,,,,,,43,Heavyweight,Mid-Carder
+107,GIULIA,SmackDown,2017,9,,,,,,,,,,,31,Women's,Main Eventer
+108,Johnny Gargano,SmackDown,2005,20,,,,,,,,,,,38,Heavyweight,Mid-Carder
+109,Kiana James,SmackDown,2021,4,,,,,,,,,,,28,Women's,Mid-Carder
+110,Kit Wilson,SmackDown,2014,11,,,,,,,,,,,31,Heavyweight,Mid-Carder
+111,Ridge Holland,NXT,2019,6,,,,,,,,,,,37,Heavyweight,Jobber
+112,Michin,SmackDown,2009,16,,,,,,,,,,,36,Women's,Mid-Carder
+113,Nathan Frazer,SmackDown,2018,7,,,,,,,,,,,27,Heavyweight,Mid-Carder
+114,Noam Dar,NXT,2008,17,,,,,,,,,,,32,Heavyweight,Mid-Carder
+115,Santos Escobar,SmackDown,2000,25,,,,,,,,,,,41,Cruiserweight,Mid-Carder
+116,Trish Stratus,SmackDown,2000,25,,,,,,,,,,,49,Women's,Main Eventer
+117,Zelina Vega,SmackDown,2010,15,,,,,,,,,,,34,Women's,Mid-Carder
+118,Andre Chase,NXT,2008,17,,,,,,,,,,,36,Heavyweight,Mid-Carder
+119,Arianna Grace,NXT,2018,7,,,,,,,,,,,28,Women's,Mid-Carder
+120,Ava,NXT,2023,2,,,,,,,,,,,24,Women's,Mid-Carder
+121,Brinley Reece,NXT,2023,2,,,,,,,,,,,25,Women's,Jobber
+122,Blake Monroe,NXT,2019,6,,,,,,,,,,,27,Women's,Main Eventer
+123,Booker T,NXT,1990,33,,,,,,,,,,,60,Heavyweight,Main Eventer
+124,Bronco Nima,NXT,2022,3,,,,,,,,,,,27,Heavyweight,Mid-Carder
+125,Brooks Jensen,NXT,2019,6,,,,,,,,,,,24,Tag Team,Mid-Carder
+126,Carlee  Bright,NXT,2023,2,,,,,,,,,,,25,Women's,Main Eventer
+127,Channing Stacks Lorenzo,NXT,2019,6,,,,,,,,,,,28,Heavyweight,Mid-Carder
+128,Charlie Dempsey,NXT,2018,7,,,,,,,,,,,28,Heavyweight,Mid-Carder
+129,Cutler James,NXT,2023,2,,,,,,,,,,,25,Heavyweight,Mid-Carder
+130,Dante Chen,NXT,2025,1,,,,,,,,,,,29,Heavyweight,Jobber
+131,Dion Lennox,NXT,1998,27,,,,,,,,,,,27,Tag Team,Main Eventer
+132,Ethan Page,NXT,2006,19,,,,,,,,,,,36,Heavyweight,Main Eventer
+133,Fallon Henley,NXT,2017,8,,,,,,,,,,,31,Women's,Main Eventer
+134,Hank Walker,NXT,2022,3,,,,,,,,,,,26,Heavyweight,Mid-Carder
+135,Izzi Dame,NXT,2023,2,,,,,,,,,,,26,Women's,Mid-Carder
+136,Jacy  Jayne,NXT,2018,7,,,,,,,,,,,29,Women's,Mid-Carder
+137,Jaida Parker,NXT,2023,2,,,,,,,,,,,26,Women's,Main Eventer
+138,Jasper Troy,NXT,2024,1,,,,,,,,,,,26,Heavyweight,Main Eventer
+139,Je'von Evans,NXT,2018,7,,,,,,,,,,,21,Heavyweight,Mid-Carder
+140,Joe Henry,NXT,2013,12,,,,,,,,,,,37,Heavyweight,Main Eventer
+141,Jordynne Grace,NXT,2009,16,,,,,,,,,,,29,Women's,Main Eventer
+142,Josh Briggs,NXT,2016,9,,,,,,,,,,,32,Heavyweight,Mid-Carder
+143,Kale Dixon,NXT,2022,3,,,,,,,,,,,26,Heavyweight,Mid-Carder
+144,Karmen Petrovic,NXT,2023,2,,,,,,,,,,,29,Women's,Main Eventer
+145,Kelani Jordan,NXT,1998,27,,,,,,,,,,,26,Women's,Mid-Carder
+146,Lainey Raid,NXT,2024,1,,,,,,,,,,,27,Women's,Jobber
+147,Kendal Grey,NXT,2024,1,,,,,,,,,,,24,Women's,Mid-Carder
+148,Lash Legend,NXT,2021,4,,,,,,,,,,,28,Women's,Mid-Carder
+149,Lexis King,NXT,2017,8,,,,,,,,,,,32,Heavyweight,Mid-Carder
+150,Lola Vice,NXT,2022,3,,,,,,,,,,,27,Women's,Mid-Carder
+151,Luca Crusifino,NXT,2023,2,,,,,,,,,,,24,Heavyweight,Mid-Carder
+152,Lucien Price,NXT,2022,3,,,,,,,,,,,28,Heavyweight,Mid-Carder
+153,Piper Niven,SmackDown,2023,2,,,,,,,,,,,34,Women's,Jobber
+154,Myles Borne,NXT,2022,3,,,,,,,,,,,26,Heavyweight,Mid-Carder
+155,Nikkita Lyons,NXT,2018,7,,,,,,,,,,,26,Women's,Main Eventer
+156,Niko Vance,NXT,2023,2,,,,,,,,,,,26,Heavyweight,Mid-Carder
+157,Oba Femi,NXT,2022,3,,,,,,,,,,,27,Heavyweight,Mid-Carder
+158,Osiris Griffin,NXT,2025,1,,,,,,,,,,,27,Heavyweight,Mid-Carder
+159,Rikki Saints,NXT,2011,14,,,,,,,,,,,35,Heavyweight,Mid-Carder
+160,Elton Prince,SmackDown,2022,3,,,,,,,,,,,28,Heavyweight,Mid-Carder
+161,Saquon Shugars,NXT,2024,1,,,,,,,,,,,25,Heavyweight,Mid-Carder
+162,Apollo Crews,SmackDown,2018,7,,,,,,,,,,,38,Heavyweight,Jobber
+163,Shawn Michaels,NXT,1984,41,,,,,,,,,,,60,Heavyweight,Main Eventer
+164,Shawn Spears,NXT,2002,23,,,,,,,,,,,44,Heavyweight,Mid-Carder
+165,Sol Ruka,NXT,2022,3,,,,,,,,,,,25,Women's,Main Eventer
+166,Stevie Turner,NXT,2016,9,,,,,,,,,,,28,Women's,Mid-Carder
+167,Tank Ledger,NXT,2022,3,,,,,,,,,,,25,Heavyweight,Jobber
+166,Tatum Paxley,NXT,2022,3,,,,,,,,,,,28,Women's,Mid-Carder
+167,Tavion Heights,NXT,2022,3,,,,,,,,,,,27,Heavyweight,Main Eventer
+168,Thea Hail,NXT,2022,3,,,,,,,,,,,22,Women's,Mid-Carder
+169,Tony D'Angelo,NXT,2021,4,,,,,,,,,,,30,Heavyweight,Mid-Carder
+170,Tyler Breeze,NXT,2007,18,,,,,,,,,,,37,Heavyweight,Mid-Carder
+171,Tyra Mae Steele,NXT,2024,1,,,,,,,,,,,32,Women's,Main Eventer
+172,Tyriek Igwe,NXT,2023,2,,,,,,,,,,,32,Tag Team,Jobber
+173,Tyson Dupont,NXT,2023,2,,,,,,,,,,,27,Tag Team,Mid-Carder
+174,Uriah Connors,NXT,2024,1,,,,,,,,,,,23,Heavyweight,Jobber
+175,Drake Morreaux,NXT,2024,1,,,,,,,,,,,27,Heavyweight,Jobber
+176,Wendy Choo,NXT,2014,10,,,,,,,,,,,33,Women's,Mid-Carder
+177,Wes Lee,NXT,2011,13,,,,,,,,,,,30,Heavyweight,Main Eventer
+178,Wren Sinclair,NXT,2019,6,,,,,,,,,,,30,Women's,Mid-Carder
+179,Yoshiki Inamura,NXT,2018,7,,,,,,,,,,,32,Heavyweight,Main Eventer
+180,Zaria,NXT,2020,5,,,,,,,,,,,26,Women's,Main Eventer
